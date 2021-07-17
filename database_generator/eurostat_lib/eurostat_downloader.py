@@ -38,7 +38,8 @@ start_line = True
 data_objects = []
 
 with open(filemapper_path) as f:
-    for i, line in enumerate(f):
+    i = 0
+    for line in f:
         if start_line:
             start_line = False
         else:
@@ -51,6 +52,7 @@ with open(filemapper_path) as f:
             obj.load()
             data_objects.append(obj)
             print(f"Loaded: {filename}")
+        i += 1
     
 if not os.path.exists(dst_path):
     os.makedirs(dst_path)
