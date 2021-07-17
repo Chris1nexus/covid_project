@@ -10,6 +10,7 @@ import argparse
 
 def main(args):
     dm = DatasetsMerger(args.db_path, args.covid_data, args.euro_data, args.pol_data, db_folder='../')
+    dm.merge()
     dm.save_to_sqlite()
 
 
