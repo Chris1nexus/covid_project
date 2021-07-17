@@ -37,7 +37,7 @@ class DataObject:
 start_line = True
 data_objects = []
 
-with open(filemapper_path) as f:
+with open(filemapper_path, encoding="cp1252") as f:
     i = 0
     for line in f:
         if start_line:
