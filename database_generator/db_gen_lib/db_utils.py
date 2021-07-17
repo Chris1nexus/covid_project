@@ -192,8 +192,13 @@ class DatasetsMerger(object):
                 db_folder: str
         """
         self.db_file_name = db_file_name
+        self.covid_file_name = covid_file_name 
+        self.eurostat_folder = eurostat_folder
+        self.policy_file_name = policy_file_name
         self.db_folder = db_folder
         self.db_sheet = db_sheet
+        
+        
         self.db_df = self._load_db_df()
         self.covariates = self._load_covariates()
         self.covid_cases = self._load_covid_cases()
@@ -202,9 +207,7 @@ class DatasetsMerger(object):
         self._raw_data = {}
         
         
-        self.covid_file_name = covid_file_name 
-        self.eurostat_folder = eurostat_folder
-        self.policy_file_name = policy_file_name
+        
     
     def _load_db_df(self):
         """
