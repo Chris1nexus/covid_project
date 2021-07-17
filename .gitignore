@@ -1,0 +1,6 @@
+database_generator/covid_at_lombardy.sqlite
+database_generator/eurostat_datasets
+database_generator/filemapper.xlsx 
+database_generator/prototype_eurostat_downloader.ipynb 
+covariates
+.ipynb_checkpoints
