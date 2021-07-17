@@ -3,7 +3,7 @@ import os
 import urllib
 import urllib.request
 import gzip
-
+import re
 assert len(sys.argv) == 2+1, f"Error, expected command line inputs are:\n path_to_filemapper.tsv dest_path_of_the_downloaded_files\nBut received:\n {sys.argv}"
 assert os.path.exists(sys.argv[1]), f"Error {sys.argv[1]} does not exist"
 
@@ -26,6 +26,31 @@ class DataObject:
             gzip_fd = gzip.GzipFile(fileobj=gz_source)
             self.dataset = gzip.decompress(gz_source).decode('utf-8')
     def clean(self):
+        #print(self.dataset)
+        
+        cleaned_dataset = []
+        line_cnt = 0
+        for line in self.dataset.split("\n"):
+            if len(line) >= 2:
+                
+                data = line.rstrip().split("\t")
+
+                region_name = None
+                geo_info = data[0]
+                if line_cnt == 0:
+                    region_name = "geo"
+                else:
+                    geo_info.split(",")[-1]
+                    region_name = geo_info.split(",")[-1]
+                clean_data = [ re.sub("[()a-zA-Z ]", "", item)  for item in data[1:] ] 
+                db_row = "\t".join([region_name] +clean_data )  
+                
+                cleaned_dataset.append(db_row)
+
+                line_cnt += 1
+        self.dataset = "\n".join(cleaned_dataset)
+  
+        # re.sub("[a-zA-Z ]", "", s)
         pass
     def save(self, filepath):
         filepath = os.path.join(filepath, self.filename)
@@ -50,6 +75,7 @@ with open(filemapper_path, encoding="cp1252") as f:
             filename, eurostat_fd, url = items
             obj = DataObject(filename, eurostat_fd, url)
             obj.load()
+            obj.clean()
             data_objects.append(obj)
             print(f"Loaded: {filename}")
         i += 1
