@@ -238,8 +238,10 @@ class DatasetsMerger(object):
                 cov_file_type = covariate_info.split(".")[1]
                 cov_agg_method = covariate_info.split(".")[2]
                 
-                covs[covariate_info] = Covariate(self.eurostat_folder + cov_file_name + '.' + cov_file_type, file_type=cov_file_type, aggregation_method=cov_agg_method)
+                cov_file_path = os.path.join(self.eurostat_folder, cov_file_name + '.' + cov_file_type) 
+                covs[covariate_info] = Covariate(cov_file_path, file_type=cov_file_type, aggregation_method=cov_agg_method)
             except Exception as e:
+                print(e)
                 pass
 
         return covs
