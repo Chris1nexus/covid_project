@@ -24,8 +24,9 @@ class Policies(object):
         return out_df
     
 class CovidCases(object):
-    def __init__(self, covid_file_name):
+    def __init__(self, covid_file_name, datasetMerger):
         self.covid_file_name = covid_file_name
+        self.datasetMerger = datasetMerger
         self.df = self._load_df()
         
     def _load_df(self):
@@ -45,7 +46,7 @@ class CovidCases(object):
             return:
                 list (str)
         """
-        return dataset_merger.db_df[dm.db_df["NUTS"] == nuts2_code]["Covid (NUTS)"].to_list()
+        return dataset_merger.db_df[self.datasetMerger.db_df["NUTS"] == nuts2_code]["Covid (NUTS)"].to_list()
     
     def _aggregate_from_nuts_2(self, nuts2_code, dataset_merger):
         """
@@ -254,7 +255,7 @@ class DatasetsMerger(object):
         """
         
         # Return CovidCases
-        return CovidCases(self.covid_file_name)
+        return CovidCases(self.covid_file_name, self)
         
     
     def _load_policies(self):
