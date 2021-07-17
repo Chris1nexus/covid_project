@@ -1,6 +1,6 @@
 import pandas as pd
 import sqlite3
-
+import os
 COVID_COLS = ["CumulativePositive", "CumulativeDeceased", "CumulativeRecovered", "CurrentlyPositive", "Hospitalized", "IntensiveCare"]
 POLICIES_COLS = ["Curfew"]
 
@@ -318,7 +318,8 @@ class DatasetsMerger(object):
         to_store_covariates = pd.DataFrame(self._raw_data["covariates"], columns=["NUTS", "Covariate", "Value"])
         to_store_policies = pd.concat(self._raw_data["policies"])
         
-        conn = sqlite3.connect('./covid_at_lombardy.sqlite')
+        output_db_file_path = os.path.join(self.db_folder,"covid_at_lombardy.sqlite")
+        conn = sqlite3.connect(output_db_file_path)
         to_store_covid.to_sql('covid_cases', conn, if_exists='replace', index=False)
         to_store_covariates.to_sql('covariates', conn, if_exists='replace', index=False)
         to_store_policies.to_sql('policies', conn, if_exists='replace', index=False)

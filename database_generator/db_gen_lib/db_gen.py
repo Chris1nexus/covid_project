@@ -9,7 +9,7 @@ import argparse
 
 
 def main(args):
-    dm = DatasetsMerger(args.db_path, args.covid_data, args.euro_data, args.pol_data, db_folder='../')
+    dm = DatasetsMerger(args.db_path, args.covid_data, args.euro_data, args.pol_data, db_folder=args.output_path)
     dm.merge()
     dm.save_to_sqlite()
 
@@ -47,6 +47,12 @@ if __name__ == "__main__":
         type=str,
         default=None,
         help="excel db FILE path",
+    )
+    parser.add_argument(
+        "--output-path",
+        type=str,
+        default=None,
+        help="path where the sqlite db is generated",
     )
 
 
