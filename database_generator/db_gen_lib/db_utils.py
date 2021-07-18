@@ -77,7 +77,7 @@ class CovidCases(object):
         if covid_code == nuts2_code:
             out_df = self.df[self.df["NUTS"] == nuts2_code][["Date"] + COVID_COLS]
         else:
-            print("aaaaaaa")
+            print("aaaaaaa: ", covid_code, " ", nuts2_code )
             out_df = self._aggregate_from_nuts_2(nuts2_code, dataset_merger)
         
         out_df["NUTS"] = nuts2_code
