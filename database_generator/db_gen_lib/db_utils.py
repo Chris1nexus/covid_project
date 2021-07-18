@@ -241,7 +241,7 @@ class DatasetsMerger(object):
                 cov_file_path = os.path.join(self.eurostat_folder, cov_file_name + '.' + cov_file_type) 
                 covs[covariate_info] = Covariate(cov_file_path, file_type=cov_file_type, aggregation_method=cov_agg_method)
             except Exception as e:
-                print(e)
+                print(covariate_info, " ",e)
                 pass
 
         return covs
