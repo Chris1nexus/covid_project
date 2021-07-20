@@ -42,7 +42,7 @@ class DataObject:
                 else:
                     geo_info.split(",")[-1]
                     region_name = geo_info.split(",")[-1]
-                clean_data = [ re.sub("[()a-zA-Z ]", "", item)  for item in data[1:] ] 
+                clean_data = [ re.sub("[()a-zA-Z: ]", "", item)  for item in data[1:] ] 
                 db_row = "\t".join([region_name] +clean_data )  
                 
                 cleaned_dataset.append(db_row)
