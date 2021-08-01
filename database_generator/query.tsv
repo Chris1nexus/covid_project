@@ -1,0 +1,1852 @@
+regionEntity	regionEntityLabel	NUTS
+http://www.wikidata.org/entity/Q31	Belgium	BE
+http://www.wikidata.org/entity/Q39	Switzerland	CH
+http://www.wikidata.org/entity/Q183	Germany	DE
+http://www.wikidata.org/entity/Q233	Malta	MT
+http://www.wikidata.org/entity/Q45	Portugal	PT
+http://www.wikidata.org/entity/Q586	Bonn	DEA22
+http://www.wikidata.org/entity/Q1201	Saarland	DEC
+http://www.wikidata.org/entity/Q1201	Saarland	DEC0
+http://www.wikidata.org/entity/Q463	Rhône-Alpes	FR71
+http://www.wikidata.org/entity/Q189	Iceland	IS
+http://www.wikidata.org/entity/Q752	Groningen	NL11
+http://www.wikidata.org/entity/Q694	South Holland	NL33
+http://www.wikidata.org/entity/Q1093	Limburg	NL42
+http://www.wikidata.org/entity/Q585	Oslo	NO011
+http://www.wikidata.org/entity/Q40	Austria	AT
+http://www.wikidata.org/entity/Q4100	Baden-Baden	DE121
+http://www.wikidata.org/entity/Q2119	Mannheim	DE126
+http://www.wikidata.org/entity/Q4190	Passau	DE222
+http://www.wikidata.org/entity/Q3936	Bamberg	DE241
+http://www.wikidata.org/entity/Q3942	Aschaffenburg	DE261
+http://www.wikidata.org/entity/Q4126	Schweinfurt	DE262
+http://www.wikidata.org/entity/Q1711	Potsdam	DE404
+http://www.wikidata.org/entity/Q1711	Potsdam	DE423
+http://www.wikidata.org/entity/Q1721	Wiesbaden	DE714
+http://www.wikidata.org/entity/Q2902	Mecklenburgische Seenplatte District	DE80J
+http://www.wikidata.org/entity/Q2876	Nordwestmecklenburg District	DE80M
+http://www.wikidata.org/entity/Q1718	Düsseldorf	DEA11
+http://www.wikidata.org/entity/Q2100	Duisburg	DEA12
+http://www.wikidata.org/entity/Q1707	Kiel	DEF02
+http://www.wikidata.org/entity/Q2947	Dithmarschen	DEF05
+http://www.wikidata.org/entity/Q2970	Plön District	DEF0A
+http://www.wikidata.org/entity/Q3011	Steinburg	DEF0E
+http://www.wikidata.org/entity/Q3750	Gera	DEG02
+http://www.wikidata.org/entity/Q3955	Weimar	DEG05
+http://www.wikidata.org/entity/Q3908	Galicia	ES11
+http://www.wikidata.org/entity/Q3093	Aisne	FR221
+http://www.wikidata.org/entity/Q3377	Eure-et-Loir	FR242
+http://www.wikidata.org/entity/Q3240	Bouches-du-Rhône	FR824
+http://www.wikidata.org/entity/Q3769	French Guiana	FR93
+http://www.wikidata.org/entity/Q3769	French Guiana	FR930
+http://www.wikidata.org/entity/Q3769	French Guiana	FRA3
+http://www.wikidata.org/entity/Q3769	French Guiana	FRA30
+http://www.wikidata.org/entity/Q3769	French Guiana	FRY3
+http://www.wikidata.org/entity/Q28	Hungary	HU
+http://www.wikidata.org/entity/Q236	Montenegro	ME
+http://www.wikidata.org/entity/Q215	Slovenia	SI
+http://www.wikidata.org/entity/Q9337	Flemish Region	BE2
+http://www.wikidata.org/entity/Q12746	Canton of St. Gallen	CH055
+http://www.wikidata.org/entity/Q8541	Ludwigsburg	DE115
+http://www.wikidata.org/entity/Q8520	Landkreis Schwäbisch Hall	DE11A
+http://www.wikidata.org/entity/Q8517	Main-Tauber-Kreis	DE11B
+http://www.wikidata.org/entity/Q8522	Ostalbkreis	DE11D
+http://www.wikidata.org/entity/Q8184	Enz	DE12B
+http://www.wikidata.org/entity/Q8167	Freiburg Government Region	DE13
+http://www.wikidata.org/entity/Q8191	Ortenau	DE134
+http://www.wikidata.org/entity/Q8170	Tübingen Government Region	DE14
+http://www.wikidata.org/entity/Q10562	Upper Bavaria	DE21
+http://www.wikidata.org/entity/Q10541	Ebersberg	DE218
+http://www.wikidata.org/entity/Q10491	Eichstätt	DE219
+http://www.wikidata.org/entity/Q10559	Lower Bavaria	DE22
+http://www.wikidata.org/entity/Q10424	Cham	DE235
+http://www.wikidata.org/entity/Q10447	Erlangen-Höchstadt	DE257
+http://www.wikidata.org/entity/Q10451	Roth	DE25B
+http://www.wikidata.org/entity/Q10469	Main-Spessart	DE26A
+http://www.wikidata.org/entity/Q10402	Oberallgäu	DE27E
+http://www.wikidata.org/entity/Q6152	Elbe-Elster District	DE407
+http://www.wikidata.org/entity/Q6119	Oberhavel District	DE40A
+http://www.wikidata.org/entity/Q6119	Oberhavel District	DE414
+http://www.wikidata.org/entity/Q6152	Elbe-Elster District	DE425
+http://www.wikidata.org/entity/Q7917	Kreis Bergstraße	DE715
+http://www.wikidata.org/entity/Q7911	Main-Kinzig-Kreis	DE719
+http://www.wikidata.org/entity/Q7899	Fulda	DE732
+http://www.wikidata.org/entity/Q5973	Holzminden	DE926
+http://www.wikidata.org/entity/Q5940	Osnabrück	DE94E
+http://www.wikidata.org/entity/Q5948	Wesermarsch	DE94G
+http://www.wikidata.org/entity/Q7926	Düsseldorf Government Region	DEA1
+http://www.wikidata.org/entity/Q6253	Rhein-Kreis Neuss	DEA1D
+http://www.wikidata.org/entity/Q6187	Steinfurt	DEA37
+http://www.wikidata.org/entity/Q6230	Lippe	DEA45
+http://www.wikidata.org/entity/Q5982	Siegen-Wittgenstein	DEA5A
+http://www.wikidata.org/entity/Q8590	Cochem-Zell	DEB16
+http://www.wikidata.org/entity/Q8606	Neuwied	DEB18
+http://www.wikidata.org/entity/Q8557	Bad Dürkheim	DEB3C
+http://www.wikidata.org/entity/Q6802	Merzig-Wadern	DEC02
+http://www.wikidata.org/entity/Q6799	Neunkirchen	DEC03
+http://www.wikidata.org/entity/Q7858	Nordhausen	DEG07
+http://www.wikidata.org/entity/Q7869	Gotha	DEG0C
+http://www.wikidata.org/entity/Q7882	Landkreis Saalfeld-Rudolstadt	DEG0I
+http://www.wikidata.org/entity/Q7887	Greiz	DEG0L
+http://www.wikidata.org/entity/Q7866	Wartburgkreis	DEG0P
+http://www.wikidata.org/entity/Q191	Estonia	EE
+http://www.wikidata.org/entity/Q7194	Province of Girona	ES512
+http://www.wikidata.org/entity/Q5813	Canary Islands	ES7
+http://www.wikidata.org/entity/Q5813	Canary Islands	ES70
+http://www.wikidata.org/entity/Q33	Finland	FI
+http://www.wikidata.org/entity/Q5711	Uusimaa	FI181
+http://www.wikidata.org/entity/Q5711	Uusimaa	FI1B
+http://www.wikidata.org/entity/Q5711	Uusimaa	FI1B1
+http://www.wikidata.org/entity/Q5693	Southern Savonia	FI1D1
+http://www.wikidata.org/entity/Q12770	Somme	FR223
+http://www.wikidata.org/entity/Q12661	Nord	FR301
+http://www.wikidata.org/entity/Q12584	Maine-et-Loire	FR512
+http://www.wikidata.org/entity/Q12620	Mayenne	FR513
+http://www.wikidata.org/entity/Q12804	Vienne	FR534
+http://www.wikidata.org/entity/Q12517	Gers	FR624
+http://www.wikidata.org/entity/Q12700	Hautes-Pyrénées	FR626
+http://www.wikidata.org/entity/Q12779	Tarn-et-Garonne	FR628
+http://www.wikidata.org/entity/Q12569	Loire	FR715
+http://www.wikidata.org/entity/Q12751	Haute-Savoie	FR718
+http://www.wikidata.org/entity/Q32	Luxembourg	LU
+http://www.wikidata.org/entity/Q221	North Macedonia	MK
+http://www.wikidata.org/entity/Q43	Turkey	TR
+http://www.wikidata.org/entity/Q6225	Coventry	UKG33
+http://www.wikidata.org/entity/Q222	Albania	AL
+http://www.wikidata.org/entity/Q181862	County Clare	CE
+http://www.wikidata.org/entity/Q30983	Espace Mittelland	CH02
+http://www.wikidata.org/entity/Q14859	Ansbach	DE251
+http://www.wikidata.org/entity/Q20266	Stollberg	DED1A
+http://www.wikidata.org/entity/Q20264	Sächsische Schweiz	DED29
+http://www.wikidata.org/entity/Q20269	Torgau-Oschatz	DED36
+http://www.wikidata.org/entity/Q26061	Southern Denmark	DK03
+http://www.wikidata.org/entity/Q26503	Funen	DK031
+http://www.wikidata.org/entity/Q41	Greece	EL
+http://www.wikidata.org/entity/Q13904	Lleida Province	ES513
+http://www.wikidata.org/entity/Q142	France	FR
+http://www.wikidata.org/entity/Q13917	Île-de-France	FR1
+http://www.wikidata.org/entity/Q13917	Île-de-France	FR10
+http://www.wikidata.org/entity/Q16216	Province of Novara	ITC15
+http://www.wikidata.org/entity/Q15091	Province of Cuneo	ITC16
+http://www.wikidata.org/entity/Q16299	Province of Varese	ITC41
+http://www.wikidata.org/entity/Q16163	Province of Cremona	ITC4A
+http://www.wikidata.org/entity/Q16204	Province of Mantua	ITC4B
+http://www.wikidata.org/entity/Q16210	Province of Monza and Brianza	ITC4D
+http://www.wikidata.org/entity/Q16189	Province of L'Aquila	ITF11
+http://www.wikidata.org/entity/Q16284	Province of Teramo	ITF12
+http://www.wikidata.org/entity/Q16153	Province of Caserta	ITF31
+http://www.wikidata.org/entity/Q16148	Province of Brindisi	ITF44
+http://www.wikidata.org/entity/Q16123	Province of Bari	ITF47
+http://www.wikidata.org/entity/Q16253	Province of Reggio Calabria	ITF65
+http://www.wikidata.org/entity/Q16208	Province of Messina	ITG13
+http://www.wikidata.org/entity/Q16150	Province of Caltanissetta	ITG15
+http://www.wikidata.org/entity/Q16166	Province of Enna	ITG16
+http://www.wikidata.org/entity/Q16251	Province of Ragusa	ITG18
+http://www.wikidata.org/entity/Q16272	Province of Sassari	ITG25
+http://www.wikidata.org/entity/Q16223	Province of Ogliastra	ITG2A
+http://www.wikidata.org/entity/Q16310	Province of Venice	ITH35
+http://www.wikidata.org/entity/Q16294	Province of Udine	ITH42
+http://www.wikidata.org/entity/Q16293	Province of Trieste	ITH44
+http://www.wikidata.org/entity/Q16243	Province of Piacenza	ITH51
+http://www.wikidata.org/entity/Q16240	Province of Perugia	ITI21
+http://www.wikidata.org/entity/Q16114	Province of Ancona	ITI32
+http://www.wikidata.org/entity/Q20	Norway	NO
+http://www.wikidata.org/entity/Q23082	County Durham	UKC14
+http://www.wikidata.org/entity/Q23066	Cumbria	UKD1
+http://www.wikidata.org/entity/Q23086	North Yorkshire	UKE2
+http://www.wikidata.org/entity/Q23083	West Yorkshire	UKE4
+http://www.wikidata.org/entity/Q23090	Lincolnshire	UKF3
+http://www.wikidata.org/entity/Q23090	Lincolnshire	UKF30
+http://www.wikidata.org/entity/Q23240	Essex	UKH3
+http://www.wikidata.org/entity/Q23220	Berkshire	UKJ11
+http://www.wikidata.org/entity/Q23169	Oxfordshire	UKJ14
+http://www.wikidata.org/entity/Q16442663	Q16442663	AT211
+http://www.wikidata.org/entity/Q219	Bulgaria	BG
+http://www.wikidata.org/entity/Q31571	Yuzhen Tsentralen Planning Region	BG42
+http://www.wikidata.org/entity/Q40846	Tenerife	ES709
+http://www.wikidata.org/entity/Q218	Romania	RO
+http://www.wikidata.org/entity/Q43745	Artvin Province	TR905
+http://www.wikidata.org/entity/Q30978	Central Switzerland	CH06
+http://www.wikidata.org/entity/Q213	Czech Republic	CZ
+http://www.wikidata.org/entity/Q54932	Ciudad Real Province	ES422
+http://www.wikidata.org/entity/Q52636	Menorca	ES533
+http://www.wikidata.org/entity/Q58060	Bjelovar-Bilogora County	HR021
+http://www.wikidata.org/entity/Q12633446	Q12633446	HR03
+http://www.wikidata.org/entity/Q58253	Split-Dalmatia County	HR035
+http://www.wikidata.org/entity/Q50615	Akershus	NO012
+http://www.wikidata.org/entity/Q50619	Vestfold	NO033
+http://www.wikidata.org/entity/Q48006	East of England	UKH
+http://www.wikidata.org/entity/Q71113	Zamora Province	ES419
+http://www.wikidata.org/entity/Q37	Lithuania	LT
+http://www.wikidata.org/entity/Q34	Sweden	SE
+http://www.wikidata.org/entity/Q90942	Arrondissement of Eeklo	BE233
+http://www.wikidata.org/entity/Q90948	Arrondissement of Ghent	BE234
+http://www.wikidata.org/entity/Q94069	Arrondissement of Ath	BE321
+http://www.wikidata.org/entity/Q93740	Arrondissement of Dinant	BE351
+http://www.wikidata.org/entity/Q93769	Arrondissement of Philippeville	BE353
+http://www.wikidata.org/entity/Q29	Spain	ES
+http://www.wikidata.org/entity/Q83102	Edirne Province	TR212
+http://www.wikidata.org/entity/Q83077	Kars Province	TRA22
+http://www.wikidata.org/entity/Q83081	Diyarbakır Province	TRC22
+http://www.wikidata.org/entity/Q80370	Batman Province	TRC32
+http://www.wikidata.org/entity/Q80967	Outer Hebrides	UKM6
+http://www.wikidata.org/entity/Q80967	Outer Hebrides	UKM64
+http://www.wikidata.org/entity/Q114225	Aschersleben-Staßfurt	DEE32
+http://www.wikidata.org/entity/Q114247	Halberstadt	DEE34
+http://www.wikidata.org/entity/Q114625	Schönebeck	DEE39
+http://www.wikidata.org/entity/Q103691	Halland County	SE231
+http://www.wikidata.org/entity/Q103686	Norrbotten County	SE332
+http://www.wikidata.org/entity/Q347	Liechtenstein	LI
+http://www.wikidata.org/entity/Q132637	Mersin Province	TR622
+http://www.wikidata.org/entity/Q1205	Thuringia	DEG
+http://www.wikidata.org/entity/Q183315	Storstrøm County	DK006
+http://www.wikidata.org/entity/Q170295	Ionian Islands	EL22
+http://www.wikidata.org/entity/Q178925	Gran Canaria	ES705
+http://www.wikidata.org/entity/Q732210	Northern Hungary	HU31
+http://www.wikidata.org/entity/Q192702	Ústí nad Labem Region	CZ042
+http://www.wikidata.org/entity/Q18678082	Nouvelle-Aquitaine	FRI
+http://www.wikidata.org/entity/Q14112	Corsica	FRM
+http://www.wikidata.org/entity/Q224	Croatia	HR
+http://www.wikidata.org/entity/Q203304	Capital Region	IS001
+http://www.wikidata.org/entity/Q188061	Vilnius County	LT011
+http://www.wikidata.org/entity/Q188085	Panevėžys County	LT025
+http://www.wikidata.org/entity/Q2572675	Sud - Muntenia	RO31
+http://www.wikidata.org/entity/Q203889	Luton	UKH21
+http://www.wikidata.org/entity/Q203995	Southend-on-Sea	UKH31
+http://www.wikidata.org/entity/Q21487155	Southend-on-Sea	UKH31
+http://www.wikidata.org/entity/Q859427	Inner London	UKI1
+http://www.wikidata.org/entity/Q225400	Waldviertel	AT124
+http://www.wikidata.org/entity/Q207840	Imathia Regional Unit	EL121
+http://www.wikidata.org/entity/Q208152	London Borough of Tower Hamlets	UKI42
+http://www.wikidata.org/entity/Q211	Latvia	LV
+http://www.wikidata.org/entity/Q241731	Grande Lisboa Subregion	PT132
+http://www.wikidata.org/entity/Q241731	Grande Lisboa Subregion	PT171
+http://www.wikidata.org/entity/Q214	Slovakia	SK
+http://www.wikidata.org/entity/Q272662	Çankırı Province	TR822
+http://www.wikidata.org/entity/Q36	Poland	PL
+http://www.wikidata.org/entity/Q4992082	West Sweden	SE23
+http://www.wikidata.org/entity/Q403	Serbia	RS
+http://www.wikidata.org/entity/Q388995	Trabzon Province	TR901
+http://www.wikidata.org/entity/Q445936	Weser-Ems Government Region	DE94
+http://www.wikidata.org/entity/Q430693	Nevşehir Province	TR714
+http://www.wikidata.org/entity/Q16994	Pays de la Loire	FRG
+http://www.wikidata.org/entity/Q482975	Karaman Province	TR522
+http://www.wikidata.org/entity/Q484392	Kırıkkale Province	TR711
+http://www.wikidata.org/entity/Q483472	Kayseri Province	TR721
+http://www.wikidata.org/entity/Q483100	Sivas Province	TR722
+http://www.wikidata.org/entity/Q483173	Erzincan Province	TRA12
+http://www.wikidata.org/entity/Q534799	Istanbul Province	TR100
+http://www.wikidata.org/entity/Q22	Scotland	UKM
+http://www.wikidata.org/entity/Q19839489	Mediterranean Region (statistical)	TR6
+http://www.wikidata.org/entity/Q575289	Mühlviertel	AT313
+http://www.wikidata.org/entity/Q54169	Masovian Voivodeship	PL12
+http://www.wikidata.org/entity/Q19839516	Tekirdağ Subregion	TR21
+http://www.wikidata.org/entity/Q35	Denmark	DK
+http://www.wikidata.org/entity/Q649484	Pella Regional Unit	EL124
+http://www.wikidata.org/entity/Q647378	Şırnak Province	TRC33
+http://www.wikidata.org/entity/Q694449	Amstetten District	AT121
+http://www.wikidata.org/entity/Q12646870	Mostviertel-Eisenwurzen	AT121
+http://www.wikidata.org/entity/Q696333	Western Slovakia	SK02
+http://www.wikidata.org/entity/Q853861	Kaunas County	LT022
+http://www.wikidata.org/entity/Q905227	Northern Great Plain	HU32
+http://www.wikidata.org/entity/Q1998592	Northern Sweden	SE3
+http://www.wikidata.org/entity/Q880782	Blackburn with Darwen	UKD41
+http://www.wikidata.org/entity/Q145	United Kingdom	UK
+http://www.wikidata.org/entity/Q1070590	Cheshire East	UKD62
+http://www.wikidata.org/entity/Q1070591	Cheshire West and Chester	UKD63
+http://www.wikidata.org/entity/Q1127320	Central Italy	ITI
+http://www.wikidata.org/entity/Q1200	Rhineland-Palatinate	DEB
+http://www.wikidata.org/entity/Q1267522	Crete Region	EL43
+http://www.wikidata.org/entity/Q1547405	Tâmega Subregion	PT115
+http://www.wikidata.org/entity/Q1546645	Sefton	UKD73
+http://www.wikidata.org/entity/Q1208	Brandenburg	DE4
+http://www.wikidata.org/entity/Q25	Wales	UKL
+http://www.wikidata.org/entity/Q1202	Saxony	DED
+http://www.wikidata.org/entity/Q1206	Saxony-Anhalt	DEE
+http://www.wikidata.org/entity/Q54159	Lesser Poland Voivodeship	PL21
+http://www.wikidata.org/entity/Q1925858	Solihull	UKG32
+http://www.wikidata.org/entity/Q2012234	Pernik Province	BG414
+http://www.wikidata.org/entity/Q184469	County Kerry	KY
+http://www.wikidata.org/entity/Q1055	Hamburg	DE6
+http://www.wikidata.org/entity/Q7928	Kassel Government Region	DE73
+http://www.wikidata.org/entity/Q8165	Karlsruhe Government Region	DE12
+http://www.wikidata.org/entity/Q18677767	Hauts-de-France	FRE
+http://www.wikidata.org/entity/Q5328976	East Middle Sweden	SE12
+http://www.wikidata.org/entity/Q107010887	Q107010887	PL7
+http://www.wikidata.org/entity/Q2725942	Northwest Italy	ITC
+http://www.wikidata.org/entity/Q22905	Bradford	UKE41
+http://www.wikidata.org/entity/Q2834810	Bradford	UKE41
+http://www.wikidata.org/entity/Q852742	Central Hungary	HU1
+http://www.wikidata.org/entity/Q178283	County Limerick	LK
+http://www.wikidata.org/entity/Q236	Montenegro	ME00
+http://www.wikidata.org/entity/Q19839487	West Anatolia Region (statistical)	TR5
+http://www.wikidata.org/entity/Q4956655	Brandenburg-Southwest	DE42
+http://www.wikidata.org/entity/Q5061457	Central Moravia	CZ07
+http://www.wikidata.org/entity/Q19839486	East Marmara Region (statistical)	TR4
+http://www.wikidata.org/entity/Q19839480	West Marmara Region (statistical)	TR2
+http://www.wikidata.org/entity/Q6447622	Kurzeme Region	LV003
+http://www.wikidata.org/entity/Q19839501	East Black Sea Region (statistical)	TR9
+http://www.wikidata.org/entity/Q7546798	Småland and the islands	SE21
+http://www.wikidata.org/entity/Q19839514	Central East Anatolia Region (statistical)	TRB
+http://www.wikidata.org/entity/Q55	Netherlands	NL
+http://www.wikidata.org/entity/Q11365639	Wirral	UKD74
+http://www.wikidata.org/entity/Q12039505	Jihozápad	CZ03
+http://www.wikidata.org/entity/Q38	Italy	IT
+http://www.wikidata.org/entity/Q107011190	Northern Serbia	RS1
+http://www.wikidata.org/entity/Q19838826	Istanbul Region (statistical)	TR1
+http://www.wikidata.org/entity/Q19838938	Istanbul Subregion	TR10
+http://www.wikidata.org/entity/Q19839517	Balıkesir Subregion	TR22
+http://www.wikidata.org/entity/Q19839519	Izmir Subregion	TR31
+http://www.wikidata.org/entity/Q19839555	Adana Subregion	TR62
+http://www.wikidata.org/entity/Q13947	Centre-Val de Loire	FRB
+http://www.wikidata.org/entity/Q1198	North Rhine-Westphalia	DEA
+http://www.wikidata.org/entity/Q23231	Südösterreich	AT2
+http://www.wikidata.org/entity/Q240	Brussels Capital Region	BE1
+http://www.wikidata.org/entity/Q758056	Attica Region	EL3
+http://www.wikidata.org/entity/Q107010733	Este	ES5
+http://www.wikidata.org/entity/Q1083368	Mainland Finland	FI1
+http://www.wikidata.org/entity/Q866823	West Zealand County	DK005
+http://www.wikidata.org/entity/Q192534	Fuerteventura	ES704
+http://www.wikidata.org/entity/Q28842871	Q28842871	BG41
+http://www.wikidata.org/entity/Q28842872	Q28842872	BG41
+http://www.wikidata.org/entity/Q28842895	Q28842895	BG41
+http://www.wikidata.org/entity/Q28842898	Q28842898	BG41
+http://www.wikidata.org/entity/Q28842899	Q28842899	BG41
+http://www.wikidata.org/entity/Q28842903	Q28842903	BG41
+http://www.wikidata.org/entity/Q28842904	Q28842904	BG41
+http://www.wikidata.org/entity/Q107010880	Q107010880	PL4
+http://www.wikidata.org/entity/Q10555	Upper Palatinate	DE23
+http://www.wikidata.org/entity/Q189	Iceland	IS00
+http://www.wikidata.org/entity/Q2915956	Continental Portugal	PT1
+http://www.wikidata.org/entity/Q525358	Insular Italy	ITG
+http://www.wikidata.org/entity/Q5689	Åland	FI2
+http://www.wikidata.org/entity/Q16201	Province of Lodi	ITC49
+http://www.wikidata.org/entity/Q47967	North West England	UKD
+http://www.wikidata.org/entity/Q19839504	Northeast Anatolia Region (statistical)	TRA
+http://www.wikidata.org/entity/Q107010719	Noreste	ES2
+http://www.wikidata.org/entity/Q645860	Great Plain and North	HU3
+http://www.wikidata.org/entity/Q240	Brussels Capital Region	BE10
+http://www.wikidata.org/entity/Q1114	East Flanders	BE23
+http://www.wikidata.org/entity/Q985	Baden-Württemberg	DE1
+http://www.wikidata.org/entity/Q8536	Böblingen district	DE112
+http://www.wikidata.org/entity/Q8525	Göppingen	DE114
+http://www.wikidata.org/entity/Q8174	Neckar-Odenwald	DE127
+http://www.wikidata.org/entity/Q8177	Rhein-Neckar	DE128
+http://www.wikidata.org/entity/Q3046	Pforzheim	DE129
+http://www.wikidata.org/entity/Q2833	Freiburg im Breisgau	DE131
+http://www.wikidata.org/entity/Q8228	Bodenseekreis	DE147
+http://www.wikidata.org/entity/Q2978	Regensburg	DE232
+http://www.wikidata.org/entity/Q2999	Würzburg	DE263
+http://www.wikidata.org/entity/Q3214	Cottbus	DE402
+http://www.wikidata.org/entity/Q3214	Cottbus	DE422
+http://www.wikidata.org/entity/Q3042	Offenbach am Main	DE713
+http://www.wikidata.org/entity/Q7916	Darmstadt-Dieburg	DE716
+http://www.wikidata.org/entity/Q7914	Groß-Gerau	DE717
+http://www.wikidata.org/entity/Q7908	Hochtaunuskreis	DE718
+http://www.wikidata.org/entity/Q7909	Main-Taunus-Kreis	DE71A
+http://www.wikidata.org/entity/Q7907	Rheingau-Taunus-Kreis	DE71D
+http://www.wikidata.org/entity/Q7906	Limburg-Weilburg	DE723
+http://www.wikidata.org/entity/Q7894	Schwalm-Eder-Kreis	DE735
+http://www.wikidata.org/entity/Q1715	Hanover	DE921
+http://www.wikidata.org/entity/Q5956	Diepholz	DE922
+http://www.wikidata.org/entity/Q5919	Celle	DE931
+http://www.wikidata.org/entity/Q5910	Lüneburg	DE935
+http://www.wikidata.org/entity/Q5923	Rotenburg (Wümme)	DE937
+http://www.wikidata.org/entity/Q5915	Uelzen District	DE93A
+http://www.wikidata.org/entity/Q5929	Aurich	DE947
+http://www.wikidata.org/entity/Q2066	Essen	DEA13
+http://www.wikidata.org/entity/Q2107	Wuppertal	DEA1A
+http://www.wikidata.org/entity/Q6246	Kleve	DEA1B
+http://www.wikidata.org/entity/Q7927	Cologne Government Region	DEA2
+http://www.wikidata.org/entity/Q1017	Aachen	DEA21
+http://www.wikidata.org/entity/Q6275	Düren	DEA26
+http://www.wikidata.org/entity/Q6264	Heinsberg	DEA29
+http://www.wikidata.org/entity/Q6298	Oberbergischer Kreis	DEA2A
+http://www.wikidata.org/entity/Q6287	Rhein-Sieg District	DEA2C
+http://www.wikidata.org/entity/Q2742	Münster	DEA33
+http://www.wikidata.org/entity/Q6210	Coesfeld	DEA35
+http://www.wikidata.org/entity/Q6218	Gütersloh	DEA42
+http://www.wikidata.org/entity/Q6163	Unna	DEA5C
+http://www.wikidata.org/entity/Q8596	Ahrweiler	DEB12
+http://www.wikidata.org/entity/Q8572	Bad Kreuznach	DEB14
+http://www.wikidata.org/entity/Q3138	Trier	DEB21
+http://www.wikidata.org/entity/Q8585	Bernkastel-Wittlich	DEB22
+http://www.wikidata.org/entity/Q6905	Frankenthal (Pfalz)	DEB31
+http://www.wikidata.org/entity/Q3758	Kaiserslautern	DEB32
+http://www.wikidata.org/entity/Q6793	Saarpfalz-Kreis	DEC05
+http://www.wikidata.org/entity/Q3778	Zwickau	DED13
+http://www.wikidata.org/entity/Q4077	Görlitz	DED22
+http://www.wikidata.org/entity/Q6317	Görlitz	DED2D
+http://www.wikidata.org/entity/Q6339	Erzgebirgskreis	DED42
+http://www.wikidata.org/entity/Q1733	Magdeburg	DEE03
+http://www.wikidata.org/entity/Q6061	Altmarkkreis Salzwedel	DEE04
+http://www.wikidata.org/entity/Q6071	Anhalt-Bitterfeld	DEE05
+http://www.wikidata.org/entity/Q6068	Jerichower Land	DEE06
+http://www.wikidata.org/entity/Q1733	Magdeburg	DEE31
+http://www.wikidata.org/entity/Q6068	Jerichower Land	DEE35
+http://www.wikidata.org/entity/Q6061	Altmarkkreis Salzwedel	DEE3B
+http://www.wikidata.org/entity/Q2843	Lübeck	DEF03
+http://www.wikidata.org/entity/Q3003	Stormarn	DEF0F
+http://www.wikidata.org/entity/Q3150	Jena	DEG03
+http://www.wikidata.org/entity/Q7864	Unstrut-Hainich-Kreis	DEG09
+http://www.wikidata.org/entity/Q7879	Weimarer Land	DEG0G
+http://www.wikidata.org/entity/Q5748	Castile-La Mancha	ES42
+http://www.wikidata.org/entity/Q107010737	Sur	ES6
+http://www.wikidata.org/entity/Q5706	Northern Savonia	FI1D2
+http://www.wikidata.org/entity/Q5703	North Karelia	FI1D3
+http://www.wikidata.org/entity/Q3342	Côte-d’Or	FR261
+http://www.wikidata.org/entity/Q3278	Charente-Maritime	FR532
+http://www.wikidata.org/entity/Q3184	Ariège	FR621
+http://www.wikidata.org/entity/Q1781	Budapest	HU101
+http://www.wikidata.org/entity/Q27	Ireland	IE
+http://www.wikidata.org/entity/Q1263	Emilia-Romagna	ITH5
+http://www.wikidata.org/entity/Q773	Overijssel	NL21
+http://www.wikidata.org/entity/Q2254	Telemark	NO034
+http://www.wikidata.org/entity/Q472	Sofia	SOF46
+http://www.wikidata.org/entity/Q2256	Birmingham	UKG31
+http://www.wikidata.org/entity/Q12771	Canton of Vaud	CH011
+http://www.wikidata.org/entity/Q11917	Canton of Geneva	CH013
+http://www.wikidata.org/entity/Q12755	Canton of Jura	CH025
+http://www.wikidata.org/entity/Q11925	Grisons	CH056
+http://www.wikidata.org/entity/Q12724	Ticino	CH07
+http://www.wikidata.org/entity/Q12724	Ticino	CH070
+http://www.wikidata.org/entity/Q10530	Berchtesgadener Land	DE215
+http://www.wikidata.org/entity/Q10523	Miesbach	DE21F
+http://www.wikidata.org/entity/Q10496	Pfaffenhofen a. d. Ilm	DE21J
+http://www.wikidata.org/entity/Q10485	Deggendorf	DE224
+http://www.wikidata.org/entity/Q10474	Kelheim	DE226
+http://www.wikidata.org/entity/Q14803	Weiden in der Oberpfalz	DE233
+http://www.wikidata.org/entity/Q10427	Neumarkt	DE236
+http://www.wikidata.org/entity/Q14821	Coburg	DE243
+http://www.wikidata.org/entity/Q10432	Wunsiedel	DE24D
+http://www.wikidata.org/entity/Q10453	Weißenburg-Gunzenhausen	DE25C
+http://www.wikidata.org/entity/Q10547	Lower Franconia	DE26
+http://www.wikidata.org/entity/Q10465	Rhön-Grabfeld	DE266
+http://www.wikidata.org/entity/Q10458	Würzburg	DE26C
+http://www.wikidata.org/entity/Q10414	Augsburg	DE276
+http://www.wikidata.org/entity/Q10417	Dillingen	DE277
+http://www.wikidata.org/entity/Q20221	Annaberg	DED14
+http://www.wikidata.org/entity/Q20262	Riesa-Großenhain	DED27
+http://www.wikidata.org/entity/Q20242	Leipziger Land	DED34
+http://www.wikidata.org/entity/Q20256	Muldentalkreis	DED35
+http://www.wikidata.org/entity/Q12761	Seine-Saint-Denis	FR106
+http://www.wikidata.org/entity/Q14103	Champagne-Ardenne	FR21
+http://www.wikidata.org/entity/Q13950	Picardy	FR22
+http://www.wikidata.org/entity/Q12589	Manche	FR252
+http://www.wikidata.org/entity/Q12765	Deux-Sèvres	FR533
+http://www.wikidata.org/entity/Q12572	Haute-Loire	FR723
+http://www.wikidata.org/entity/Q12694	Puy-de-Dôme	FR724
+http://www.wikidata.org/entity/Q12545	Hérault	FR813
+http://www.wikidata.org/entity/Q17054	Martinique	FR92
+http://www.wikidata.org/entity/Q17054	Martinique	FR920
+http://www.wikidata.org/entity/Q17054	Martinique	FRA2
+http://www.wikidata.org/entity/Q17054	Martinique	FRA20
+http://www.wikidata.org/entity/Q17070	Réunion	FRA4
+http://www.wikidata.org/entity/Q17054	Martinique	FRY2
+http://www.wikidata.org/entity/Q16282	Province of Sondrio	ITC44
+http://www.wikidata.org/entity/Q16137	Province of Bergamo	ITC46
+http://www.wikidata.org/entity/Q18288155	Metropolitan City of Milan	ITC4C
+http://www.wikidata.org/entity/Q16134	Benevento Province	ITF32
+http://www.wikidata.org/entity/Q16277	Province of Syracuse	ITG19
+http://www.wikidata.org/entity/Q16207	Province of Medio Campidano	ITG2B
+http://www.wikidata.org/entity/Q16126	Province of Belluno	ITH33
+http://www.wikidata.org/entity/Q16292	Province of Treviso	ITH34
+http://www.wikidata.org/entity/Q16115	Province of Arezzo	ITI18
+http://www.wikidata.org/entity/Q16196	Province of Latina	ITI44
+http://www.wikidata.org/entity/Q31003	Eastern Switzerland	CH05
+http://www.wikidata.org/entity/Q24879	Bremen	DE501
+http://www.wikidata.org/entity/Q24198	Chemnitz Government Region	DED4
+http://www.wikidata.org/entity/Q23111	Suffolk	UKH14
+http://www.wikidata.org/entity/Q23276	Surrey	UKJ23
+http://www.wikidata.org/entity/Q27714	Lake Geneva region	CH01
+http://www.wikidata.org/entity/Q40549	Adana Province	TR621
+http://www.wikidata.org/entity/Q41358	Styria	AT22
+http://www.wikidata.org/entity/Q10554	Upper Franconia	DE24
+http://www.wikidata.org/entity/Q56037	East Berlin	DE302
+http://www.wikidata.org/entity/Q55182	Huesca Province	ES241
+http://www.wikidata.org/entity/Q54955	Teruel Province	ES242
+http://www.wikidata.org/entity/Q55288	Province of Ávila	ES411
+http://www.wikidata.org/entity/Q54929	Toledo Province	ES425
+http://www.wikidata.org/entity/Q54936	Alicante Province	ES521
+http://www.wikidata.org/entity/Q54942	Castellón	ES522
+http://www.wikidata.org/entity/Q50617	Oppland	NO022
+http://www.wikidata.org/entity/Q50626	Sogn og Fjordane	NO052
+http://www.wikidata.org/entity/Q50629	Nord-Trøndelag	NO062
+http://www.wikidata.org/entity/Q54157	Lubusz Voivodeship	PL43
+http://www.wikidata.org/entity/Q54158	Łódź Voivodeship	PL71
+http://www.wikidata.org/entity/Q48038	West Midlands	UKG
+http://www.wikidata.org/entity/Q72259	Portsmouth	UKJ31
+http://www.wikidata.org/entity/Q90911	Arrondissement of Turnhout	BE213
+http://www.wikidata.org/entity/Q93515	Arrondissement of Hasselt	BE221
+http://www.wikidata.org/entity/Q90921	Arrondissement of Aalst	BE231
+http://www.wikidata.org/entity/Q91450	Arrondissement of Ypres	BE253
+http://www.wikidata.org/entity/Q91388	Arrondissement of Kortrijk	BE254
+http://www.wikidata.org/entity/Q94000	Arrondissement of Liège	BE332
+http://www.wikidata.org/entity/Q93970	Arrondissement of Waremme	BE334
+http://www.wikidata.org/entity/Q93989	Arrondissement of Verviers	BE335
+http://www.wikidata.org/entity/Q93989	Arrondissement of Verviers	BE336
+http://www.wikidata.org/entity/Q81415	Sangerhausen	DEE26
+http://www.wikidata.org/entity/Q82119	A Coruña Province	ES111
+http://www.wikidata.org/entity/Q81802	Almería Province	ES611
+http://www.wikidata.org/entity/Q188612	Pest County	HU12
+http://www.wikidata.org/entity/Q82096	Denizli Province	TR322
+http://www.wikidata.org/entity/Q83965	Kocaeli Province	TR421
+http://www.wikidata.org/entity/Q83073	Aksaray Province	TR712
+http://www.wikidata.org/entity/Q114216	Köthen	DEE15
+http://www.wikidata.org/entity/Q104940	Östergötland County	SE123
+http://www.wikidata.org/entity/Q104877	Västerbotten County	SE331
+http://www.wikidata.org/entity/Q128147	Kingston upon Hull	UKE11
+http://www.wikidata.org/entity/Q151048	London Borough of Barnet	UKI71
+http://www.wikidata.org/entity/Q164867	Rügen	DE80H
+http://www.wikidata.org/entity/Q181342	Trnava Region	SK021
+http://www.wikidata.org/entity/Q193266	Liberec Region	CZ051
+http://www.wikidata.org/entity/Q193307	Olomouc Region	CZ071
+http://www.wikidata.org/entity/Q602335	Nord-Vest	RO11
+http://www.wikidata.org/entity/Q250330	Centru	RO12
+http://www.wikidata.org/entity/Q183498	Bratislava Region	SK010
+http://www.wikidata.org/entity/Q184228	Žilina region	SK031
+http://www.wikidata.org/entity/Q213623	Kavala Prefecture	EL115
+http://www.wikidata.org/entity/Q211319	Serres Prefecture	EL126
+http://www.wikidata.org/entity/Q209385	Grevena Prefecture	EL131
+http://www.wikidata.org/entity/Q211113	Scottish Borders	UKM24
+http://www.wikidata.org/entity/Q272947	Çorum Province	TR833
+http://www.wikidata.org/entity/Q314240	Brunswick Government Region	DE91
+http://www.wikidata.org/entity/Q329505	Southern Jutland	DK032
+http://www.wikidata.org/entity/Q19839515	Southeast Anatolia Region (statistical)	TRC
+http://www.wikidata.org/entity/Q2967	Rendsburg-Eckernförde	DEF0B
+http://www.wikidata.org/entity/Q483078	Uşak Province	TR334
+http://www.wikidata.org/entity/Q483040	Samsun Province	TR831
+http://www.wikidata.org/entity/Q14835	Bautzen	DED24
+http://www.wikidata.org/entity/Q571947	Bautzen District	DED2C
+http://www.wikidata.org/entity/Q450622	Hanover Government Region	DE92
+http://www.wikidata.org/entity/Q676537	Northwestern Switzerland	CH03
+http://www.wikidata.org/entity/Q700460	Innviertel	AT311
+http://www.wikidata.org/entity/Q804036	Baixo Alentejo Subregion	PT184
+http://www.wikidata.org/entity/Q847014	Funen County	DK008
+http://www.wikidata.org/entity/Q856299	Jugovzhodna Slovenija	SI037
+http://www.wikidata.org/entity/Q920673	Serra da Estrela Subregion	PT127
+http://www.wikidata.org/entity/Q920673	Serra da Estrela Subregion	PT167
+http://www.wikidata.org/entity/Q1164890	Kraków County	PL214
+http://www.wikidata.org/entity/Q15104	Provence-Alpes-Côte d'Azur	FRL
+http://www.wikidata.org/entity/Q1503171	Península de Setúbal Subregion	PT133
+http://www.wikidata.org/entity/Q1503171	Península de Setúbal Subregion	PT172
+http://www.wikidata.org/entity/Q314251	Lüneburg Government Region	DE93
+http://www.wikidata.org/entity/Q23100	Merseyside	UKD5
+http://www.wikidata.org/entity/Q2012057	Montana Province	BG312
+http://www.wikidata.org/entity/Q2012785	Vratsa Province	BG313
+http://www.wikidata.org/entity/Q2012423	Silistra Province	BG325
+http://www.wikidata.org/entity/Q1209	Free Hanseatic City of Bremen	DE5
+http://www.wikidata.org/entity/Q7931	Giessen Government Region	DE72
+http://www.wikidata.org/entity/Q8172	Stuttgart Government Region	DE11
+http://www.wikidata.org/entity/Q2297724	Ankara Province	TR510
+http://www.wikidata.org/entity/Q504125	Copenhagen Municipality	DK001
+http://www.wikidata.org/entity/Q2488464	Frederiksberg Municipality	DK001
+http://www.wikidata.org/entity/Q18338206	Auvergne-Rhône-Alpes	FRK
+http://www.wikidata.org/entity/Q7988304	Western Slovenia	SI04
+http://www.wikidata.org/entity/Q5310956	Dublin Region	IE021
+http://www.wikidata.org/entity/Q5310956	Dublin Region	IE061
+http://www.wikidata.org/entity/Q18678265	Occitania	FRJ
+http://www.wikidata.org/entity/Q19839484	Aegean Region (statistical)	TR3
+http://www.wikidata.org/entity/Q6587068	Lovech Province	BG315
+http://www.wikidata.org/entity/Q6840712	Mid-East Region, Ireland	IE022
+http://www.wikidata.org/entity/Q6840712	Mid-East Region, Ireland	IE062
+http://www.wikidata.org/entity/Q7057468	North Zealand	DK013
+http://www.wikidata.org/entity/Q7568605	South Sweden	SE22
+http://www.wikidata.org/entity/Q19839494	West Black Sea Region (statistical)	TR8
+http://www.wikidata.org/entity/Q12220026	Nord-Est	RO21
+http://www.wikidata.org/entity/Q15041847	East Jutland	DK042
+http://www.wikidata.org/entity/Q16361110	Latgale Region	LV005
+http://www.wikidata.org/entity/Q17989476	Beiras e Serra da Estrela	PT16J
+http://www.wikidata.org/entity/Q18677875	Normandy	FRD
+http://www.wikidata.org/entity/Q19839524	Aydın Subregion	TR32
+http://www.wikidata.org/entity/Q19839534	Manisa Subregion	TR33
+http://www.wikidata.org/entity/Q19839546	Ankara Subregion	TR51
+http://www.wikidata.org/entity/Q19839550	Konya Subregion	TR52
+http://www.wikidata.org/entity/Q19839551	Antalya Subregion	TR61
+http://www.wikidata.org/entity/Q19839588	Malatya Subregion	TRB1
+http://www.wikidata.org/entity/Q19839649	Şanlıurfa Subregion	TRC2
+http://www.wikidata.org/entity/Q22807284	Thessaly Region	EL61
+http://www.wikidata.org/entity/Q24004403	Province of Asturias	ES120
+http://www.wikidata.org/entity/Q23223	Ostösterreich	AT1
+http://www.wikidata.org/entity/Q23241	Westösterreich	AT3
+http://www.wikidata.org/entity/Q12275717	Macroregiunea Doi	RO2
+http://www.wikidata.org/entity/Q1216	Piedmont	ITC1
+http://www.wikidata.org/entity/Q107010878	Q107010878	PL2
+http://www.wikidata.org/entity/Q107010890	Q107010890	PL8
+http://www.wikidata.org/entity/Q2036023	East Sweden	SE1
+http://www.wikidata.org/entity/Q2250397	South Italy	ITF
+http://www.wikidata.org/entity/Q76713012	Azores (NUTS 1)	PT2
+http://www.wikidata.org/entity/Q171314	East Macedonia and Thrace	EL51
+http://www.wikidata.org/entity/Q17152	Centre Macedonia Region	EL52
+http://www.wikidata.org/entity/Q202484	Peloponnese Region	EL65
+http://www.wikidata.org/entity/Q1116	Province of Antwerp	BE21
+http://www.wikidata.org/entity/Q1118	Flemish Brabant	BE24
+http://www.wikidata.org/entity/Q229	Cyprus	CY
+http://www.wikidata.org/entity/Q1040	Karlsruhe	DE122
+http://www.wikidata.org/entity/Q64	Berlin	DE3
+http://www.wikidata.org/entity/Q64	Berlin	DE30
+http://www.wikidata.org/entity/Q64	Berlin	DE300
+http://www.wikidata.org/entity/Q2706	Bremerhaven	DE502
+http://www.wikidata.org/entity/Q2973	Darmstadt	DE711
+http://www.wikidata.org/entity/Q1794	Frankfurt am Main	DE712
+http://www.wikidata.org/entity/Q2917	Vorpommern-Greifswald District	DE80N
+http://www.wikidata.org/entity/Q2905	Ludwigslust-Parchim District	DE80O
+http://www.wikidata.org/entity/Q2936	Oldenburg	DE943
+http://www.wikidata.org/entity/Q2758	Mönchengladbach	DEA15
+http://www.wikidata.org/entity/Q2942	Solingen	DEA19
+http://www.wikidata.org/entity/Q2910	Ludwigshafen	DEB34
+http://www.wikidata.org/entity/Q2937	Nordfriesland district	DEF07
+http://www.wikidata.org/entity/Q107305022	Ireland	IE0
+http://www.wikidata.org/entity/Q189	Iceland	IS0
+http://www.wikidata.org/entity/Q1210	Lombardy	ITC4
+http://www.wikidata.org/entity/Q1443	Molise	ITF2
+http://www.wikidata.org/entity/Q1458	Calabria	ITF6
+http://www.wikidata.org/entity/Q1243	Veneto	ITH3
+http://www.wikidata.org/entity/Q1273	Tuscany	ITI1
+http://www.wikidata.org/entity/Q1279	Marche	ITI3
+http://www.wikidata.org/entity/Q1282	Lazio	ITI4
+http://www.wikidata.org/entity/Q1773	Riga	LV006
+http://www.wikidata.org/entity/Q803	Utrecht	NL310
+http://www.wikidata.org/entity/Q270	Warsaw	PL127
+http://www.wikidata.org/entity/Q1799	Wrocław	PL514
+http://www.wikidata.org/entity/Q12146	Basel-Landschaft	CH032
+http://www.wikidata.org/entity/Q12713	Thurgau	CH057
+http://www.wikidata.org/entity/Q12433	Schwyz	CH063
+http://www.wikidata.org/entity/Q8528	Rems-Murr	DE116
+http://www.wikidata.org/entity/Q7166	Heilbronn	DE118
+http://www.wikidata.org/entity/Q8178	Karlsruhe	DE123
+http://www.wikidata.org/entity/Q8208	Tuttlingen	DE137
+http://www.wikidata.org/entity/Q8230	Landkreis Sigmaringen	DE149
+http://www.wikidata.org/entity/Q10475	Landshut	DE227
+http://www.wikidata.org/entity/Q7042	Amberg	DE231
+http://www.wikidata.org/entity/Q10420	Neustadt an der Waldnaab	DE237
+http://www.wikidata.org/entity/Q3923	Bayreuth	DE242
+http://www.wikidata.org/entity/Q6938	Hof	DE244
+http://www.wikidata.org/entity/Q3126	Erlangen	DE252
+http://www.wikidata.org/entity/Q3931	Brandenburg an der Havel	DE401
+http://www.wikidata.org/entity/Q4024	Frankfurt (Oder)	DE403
+http://www.wikidata.org/entity/Q6165	Spree-Neiße District	DE40G
+http://www.wikidata.org/entity/Q6146	Teltow-Fläming District	DE40H
+http://www.wikidata.org/entity/Q4024	Frankfurt (Oder)	DE411
+http://www.wikidata.org/entity/Q3931	Brandenburg an der Havel	DE421
+http://www.wikidata.org/entity/Q6165	Spree-Neiße District	DE429
+http://www.wikidata.org/entity/Q6146	Teltow-Fläming District	DE42A
+http://www.wikidata.org/entity/Q7919	Odenwaldkreis	DE71B
+http://www.wikidata.org/entity/Q4065	Stralsund	DE805
+http://www.wikidata.org/entity/Q7030	Wismar	DE806
+http://www.wikidata.org/entity/Q5970	Hamelin-Pyrmont	DE923
+http://www.wikidata.org/entity/Q5963	Hanover region	DE929
+http://www.wikidata.org/entity/Q4174	Emden	DE942
+http://www.wikidata.org/entity/Q5931	Wittmund	DE94H
+http://www.wikidata.org/entity/Q6245	Wesel	DEA1F
+http://www.wikidata.org/entity/Q6214	Recklinghausen	DEA36
+http://www.wikidata.org/entity/Q7924	Arnsberg Government Region	DEA5
+http://www.wikidata.org/entity/Q8608	Altenkirchen district	DEB13
+http://www.wikidata.org/entity/Q8601	Rhein-Lahn-Kreis	DEB1A
+http://www.wikidata.org/entity/Q8580	Eifelkreis Bitburg-Prüm	DEB23
+http://www.wikidata.org/entity/Q8579	Trier-Saarburg	DEB25
+http://www.wikidata.org/entity/Q6829	Speyer	DEB38
+http://www.wikidata.org/entity/Q8562	Kusel	DEB3G
+http://www.wikidata.org/entity/Q6789	St. Wendel	DEC06
+http://www.wikidata.org/entity/Q3952	Plauen	DED12
+http://www.wikidata.org/entity/Q6313	Meissen District	DED2E
+http://www.wikidata.org/entity/Q6323	Sächsische Schweiz-Osterzgebirge	DED2F
+http://www.wikidata.org/entity/Q6337	Vogtlandkreis	DED44
+http://www.wikidata.org/entity/Q6081	Salzlandkreis	DEE0C
+http://www.wikidata.org/entity/Q6057	Stendal District	DEE0D
+http://www.wikidata.org/entity/Q6057	Stendal District	DEE37
+http://www.wikidata.org/entity/Q7862	Kyffhäuserkreis	DEG0A
+http://www.wikidata.org/entity/Q7883	Saale-Orla-Kreis	DEG0K
+http://www.wikidata.org/entity/Q7888	Altenburger Land	DEG0M
+http://www.wikidata.org/entity/Q3946	Cantabria	ES13
+http://www.wikidata.org/entity/Q3946	Cantabria	ES130
+http://www.wikidata.org/entity/Q5756	Community of Madrid	ES3
+http://www.wikidata.org/entity/Q5756	Community of Madrid	ES30
+http://www.wikidata.org/entity/Q5756	Community of Madrid	ES300
+http://www.wikidata.org/entity/Q5739	Castile and León	ES41
+http://www.wikidata.org/entity/Q5702	Ostrobothnia	FI195
+http://www.wikidata.org/entity/Q5695	Tavastia Proper	FI1C2
+http://www.wikidata.org/entity/Q5696	Central Ostrobothnia	FI1D5
+http://www.wikidata.org/entity/Q3164	Ardennes	FR211
+http://www.wikidata.org/entity/Q3194	Aube	FR212
+http://www.wikidata.org/entity/Q3286	Cher	FR241
+http://www.wikidata.org/entity/Q12553	Indre	FR243
+http://www.wikidata.org/entity/Q12549	Ille-et-Vilaine	FR523
+http://www.wikidata.org/entity/Q12526	Gironde	FR612
+http://www.wikidata.org/entity/Q12576	Lot	FR625
+http://www.wikidata.org/entity/Q12772	Tarn	FR627
+http://www.wikidata.org/entity/Q3353	Creuse	FR632
+http://www.wikidata.org/entity/Q3364	Drôme	FR713
+http://www.wikidata.org/entity/Q3113	Allier	FR721
+http://www.wikidata.org/entity/Q3207	Aude	FR811
+http://www.wikidata.org/entity/Q3334	Haute-Corse	FR832
+http://www.wikidata.org/entity/Q3410	Hertfordshire	UKH23
+http://www.wikidata.org/entity/Q16017	Zweibrücken	DEB3A
+http://www.wikidata.org/entity/Q20236	Freiberg	DED16
+http://www.wikidata.org/entity/Q20271	Zwickauer Land	DED1C
+http://www.wikidata.org/entity/Q20233	Döbeln	DED33
+http://www.wikidata.org/entity/Q26067	North Denmark Region	DK05
+http://www.wikidata.org/entity/Q16393	Midi-Pyrénées	FR62
+http://www.wikidata.org/entity/Q17070	Réunion	FR94
+http://www.wikidata.org/entity/Q17070	Réunion	FR940
+http://www.wikidata.org/entity/Q17070	Réunion	FRA40
+http://www.wikidata.org/entity/Q17070	Réunion	FRY4
+http://www.wikidata.org/entity/Q16287	Province of Turin	ITC11
+http://www.wikidata.org/entity/Q16188	Province of La Spezia	ITC34
+http://www.wikidata.org/entity/Q16161	Province of Como	ITC42
+http://www.wikidata.org/entity/Q16120	Province of Avellino	ITF34
+http://www.wikidata.org/entity/Q16315	Province of Vibo Valentia	ITF64
+http://www.wikidata.org/entity/Q16224	Province of Olbia-Tempio	ITG29
+http://www.wikidata.org/entity/Q16226	Province of Padua	ITH36
+http://www.wikidata.org/entity/Q16228	Province of Parma	ITH52
+http://www.wikidata.org/entity/Q16209	Province of Modena	ITH54
+http://www.wikidata.org/entity/Q16250	Province of Prato	ITI15
+http://www.wikidata.org/entity/Q16200	Province of Livorno	ITI16
+http://www.wikidata.org/entity/Q16267	Province of Rieti	ITI42
+http://www.wikidata.org/entity/Q23079	Northumberland	UKC21
+http://www.wikidata.org/entity/Q23080	Tyne and Wear	UKC22
+http://www.wikidata.org/entity/Q23080	Tyne and Wear	UKC23
+http://www.wikidata.org/entity/Q1280897	Sunderland	UKC23
+http://www.wikidata.org/entity/Q18125	Manchester	UKD33
+http://www.wikidata.org/entity/Q23077	Lancashire	UKD4
+http://www.wikidata.org/entity/Q23064	Cheshire	UKD6
+http://www.wikidata.org/entity/Q23129	Herefordshire	UKG11
+http://www.wikidata.org/entity/Q23103	Shropshire	UKG22
+http://www.wikidata.org/entity/Q26888	London Borough of Croydon	UKI62
+http://www.wikidata.org/entity/Q23165	Gloucestershire	UKK13
+http://www.wikidata.org/entity/Q31487	Kraków	PL213
+http://www.wikidata.org/entity/Q27662	Norte region	PT11
+http://www.wikidata.org/entity/Q27689	Lisbon Metropolitan Area	PT17
+http://www.wikidata.org/entity/Q55271	Burgos Province	ES412
+http://www.wikidata.org/entity/Q55269	Palencia Province	ES414
+http://www.wikidata.org/entity/Q54939	Valencia Province	ES523
+http://www.wikidata.org/entity/Q46130	Rhône	FR716
+http://www.wikidata.org/entity/Q50630	Nordland	NO071
+http://www.wikidata.org/entity/Q71097	Valladolid Province	ES418
+http://www.wikidata.org/entity/Q80051	Ağrı Province	TRA21
+http://www.wikidata.org/entity/Q79840	Ardahan Province	TRA24
+http://www.wikidata.org/entity/Q79848	Southampton	UKJ32
+http://www.wikidata.org/entity/Q93577	Arrondissement of Maaseik	BE222
+http://www.wikidata.org/entity/Q90960	Arrondissement of Dendermonde	BE232
+http://www.wikidata.org/entity/Q90932	Arrondissement of Oudenaarde	BE235
+http://www.wikidata.org/entity/Q91445	Arrondissement of Tielt	BE257
+http://www.wikidata.org/entity/Q91411	Arrondissement of Veurne	BE258
+http://www.wikidata.org/entity/Q93925	Arrondissement of Bastogne	BE342
+http://www.wikidata.org/entity/Q81972	Córdoba Province	ES613
+http://www.wikidata.org/entity/Q82142	Granada Province	ES614
+http://www.wikidata.org/entity/Q95028	Málaga Province	ES617
+http://www.wikidata.org/entity/Q83069	Sakarya Province	TR422
+http://www.wikidata.org/entity/Q100166	Orkney Islands	UKM65
+http://www.wikidata.org/entity/Q105967	La Gomera	ES706
+http://www.wikidata.org/entity/Q104231	Stockholm County	SE110
+http://www.wikidata.org/entity/Q105075	Västmanland County	SE125
+http://www.wikidata.org/entity/Q125506	Iğdır Province	TRA23
+http://www.wikidata.org/entity/Q126269	Wolverhampton	UKG39
+http://www.wikidata.org/entity/Q1426049	Southern Sweden	SE2
+http://www.wikidata.org/entity/Q131597	Kırklareli Province	TR213
+http://www.wikidata.org/entity/Q131384	Malatya Province	TRB11
+http://www.wikidata.org/entity/Q184981	Shumen Province	BG333
+http://www.wikidata.org/entity/Q182809	Haskovo Province	BG422
+http://www.wikidata.org/entity/Q190550	Moravian-Silesian Region	CZ080
+http://www.wikidata.org/entity/Q180484	Epirus Region	EL21
+http://www.wikidata.org/entity/Q180484	Epirus Region	EL54
+http://www.wikidata.org/entity/Q188945	Olt County	RO414
+http://www.wikidata.org/entity/Q184548	Nitra Region	SK023
+http://www.wikidata.org/entity/Q183640	Banská Bystrica Region	SK032
+http://www.wikidata.org/entity/Q179351	City of Westminster	UKI32
+http://www.wikidata.org/entity/Q211732	Kozani Prefecture	EL133
+http://www.wikidata.org/entity/Q211314	Florina Prefecture	EL134
+http://www.wikidata.org/entity/Q580631	East Anglia	UKH1
+http://www.wikidata.org/entity/Q202059	London Borough of Lambeth	UKI45
+http://www.wikidata.org/entity/Q207218	London Borough of Ealing	UKI73
+http://www.wikidata.org/entity/Q450521	Magdeburg Government Region	DEE3
+http://www.wikidata.org/entity/Q443376	Alto Alentejo Subregion	PT186
+http://www.wikidata.org/entity/Q483053	Eskişehir Province	TR412
+http://www.wikidata.org/entity/Q483063	Bayburt Province	TRA13
+http://www.wikidata.org/entity/Q482825	Siirt Province	TRC34
+http://www.wikidata.org/entity/Q559583	Ostvorpommern	DE80F
+http://www.wikidata.org/entity/Q573203	Trier Government Region	DEB2
+http://www.wikidata.org/entity/Q616008	Alentejo Central	PT187
+http://www.wikidata.org/entity/Q12130	Brittany	FRH
+http://www.wikidata.org/entity/Q5330475	Eastern Slovenia	SI03
+http://www.wikidata.org/entity/Q702558	Saalkreis	DEE25
+http://www.wikidata.org/entity/Q696771	Ohrekreis	DEE36
+http://www.wikidata.org/entity/Q774015	Leeds	UKE42
+http://www.wikidata.org/entity/Q797782	Medway	UKJ41
+http://www.wikidata.org/entity/Q814840	Beira Interior Sul Subregion	PT129
+http://www.wikidata.org/entity/Q814840	Beira Interior Sul Subregion	PT169
+http://www.wikidata.org/entity/Q833534	Obalno-kraška	SI044
+http://www.wikidata.org/entity/Q849727	Copenhagen County	DK002
+http://www.wikidata.org/entity/Q853028	Vejle County	DK00B
+http://www.wikidata.org/entity/Q853948	Marijampolė County	LT024
+http://www.wikidata.org/entity/Q895926	Hannover	DE924
+http://www.wikidata.org/entity/Q1007272	Gabrovo Province	BG322
+http://www.wikidata.org/entity/Q1140130	Belfast district	UKN01
+http://www.wikidata.org/entity/Q251931	Lienz District	AT333
+http://www.wikidata.org/entity/Q1195398	East Tyrol	AT333
+http://www.wikidata.org/entity/Q1251933	Ruse Province	BG323
+http://www.wikidata.org/entity/Q1248507	Alto Minho Subregion	PT111
+http://www.wikidata.org/entity/Q1252756	Douro Subregion	PT11D
+http://www.wikidata.org/entity/Q1548070	Pinhal Interior Norte Subregion	PT124
+http://www.wikidata.org/entity/Q1547442	Pinhal Interior Sul Subregion	PT126
+http://www.wikidata.org/entity/Q1548070	Pinhal Interior Norte Subregion	PT164
+http://www.wikidata.org/entity/Q1547442	Pinhal Interior Sul Subregion	PT166
+http://www.wikidata.org/entity/Q23100	Merseyside	UKD7
+http://www.wikidata.org/entity/Q1617704	Dudley	UKG36
+http://www.wikidata.org/entity/Q1892770	North Wales	UKL11
+http://www.wikidata.org/entity/Q1892770	North Wales	UKL12
+http://www.wikidata.org/entity/Q1892770	North Wales	UKL13
+http://www.wikidata.org/entity/Q1892770	North Wales	UKL23
+http://www.wikidata.org/entity/Q1781	Budapest	HU11
+http://www.wikidata.org/entity/Q2096065	Q2096065	AT322
+http://www.wikidata.org/entity/Q26	Northern Ireland	UKN
+http://www.wikidata.org/entity/Q202216	overseas department and region of France	FRY
+http://www.wikidata.org/entity/Q56276896	Stockholm	SE11
+http://www.wikidata.org/entity/Q3241184	București - Ilfov	RO32
+http://www.wikidata.org/entity/Q54181	Silesian Voivodeship	PL22
+http://www.wikidata.org/entity/Q3982570	Tees Valley	UKC1
+http://www.wikidata.org/entity/Q2941	Schleswig-Flensburg	DEF0C
+http://www.wikidata.org/entity/Q10358780	Coimbra Region	PT16E
+http://www.wikidata.org/entity/Q47994	East Midlands	UKF
+http://www.wikidata.org/entity/Q12342164	Østsjælland	DK021
+http://www.wikidata.org/entity/Q16356777	Zemgale Region	LV009
+http://www.wikidata.org/entity/Q17989472	Beira Baixa Subregion	PT16H
+http://www.wikidata.org/entity/Q18355583	Tâmega e Sousa subregion	PT11C
+http://www.wikidata.org/entity/Q18677983	Grand Est	FRF
+http://www.wikidata.org/entity/Q19839565	Zonguldak Subregion	TR81
+http://www.wikidata.org/entity/Q19839581	Trabzon Subregion	TR90
+http://www.wikidata.org/entity/Q20989106	Blackpool	UKD42
+http://www.wikidata.org/entity/Q23183	Wiltshire	UKK15
+http://www.wikidata.org/entity/Q21694746	Wiltshire	UKK15
+http://www.wikidata.org/entity/Q22162581	Região de Leiria Subregion	PT16F
+http://www.wikidata.org/entity/Q191	Estonia	EE0
+http://www.wikidata.org/entity/Q18578267	Bourgogne-Franche-Comté	FRC
+http://www.wikidata.org/entity/Q221	North Macedonia	MK0
+http://www.wikidata.org/entity/Q107011197	Southern Serbia	RS2
+http://www.wikidata.org/entity/Q213	Czech Republic	CZ0
+http://www.wikidata.org/entity/Q6392111	Kentriki Ellada	EL6
+http://www.wikidata.org/entity/Q199580	Central Greece Region	EL24
+http://www.wikidata.org/entity/Q107010885	Makroregion północny	PL6
+http://www.wikidata.org/entity/Q1147674	Ionian Islands Region	EL62
+http://www.wikidata.org/entity/Q1222	Aosta Valley	ITC2
+http://www.wikidata.org/entity/Q208303	Xanthi Prefecture	EL112
+http://www.wikidata.org/entity/Q67123139	South-Western and South-Central Bulgaria	BG4
+http://www.wikidata.org/entity/Q3656142	Macroregiunea Unu	RO1
+http://www.wikidata.org/entity/Q1095	Limburg	BE22
+http://www.wikidata.org/entity/Q1126	Luxembourg	BE34
+http://www.wikidata.org/entity/Q715	Heilbronn	DE117
+http://www.wikidata.org/entity/Q2090	Nuremberg	DE254
+http://www.wikidata.org/entity/Q2865	Kassel	DE731
+http://www.wikidata.org/entity/Q2861	Rostock	DE803
+http://www.wikidata.org/entity/Q3014	Wolfsburg	DE913
+http://www.wikidata.org/entity/Q3857	Wilhelmshaven	DE945
+http://www.wikidata.org/entity/Q3069	Bottrop	DEA31
+http://www.wikidata.org/entity/Q1295	Dortmund	DEA52
+http://www.wikidata.org/entity/Q2904	Herne	DEA55
+http://www.wikidata.org/entity/Q1731	Dresden	DED21
+http://www.wikidata.org/entity/Q2814	Halle (Saale)	DEE02
+http://www.wikidata.org/entity/Q2814	Halle (Saale)	DEE21
+http://www.wikidata.org/entity/Q1194	Schleswig-Holstein	DEF
+http://www.wikidata.org/entity/Q1194	Schleswig-Holstein	DEF0
+http://www.wikidata.org/entity/Q3000	Herzogtum Lauenburg	DEF06
+http://www.wikidata.org/entity/Q1205	Thuringia	DEG0
+http://www.wikidata.org/entity/Q3995	Basque Autonomous Community	ES21
+http://www.wikidata.org/entity/Q90	Paris	FR101
+http://www.wikidata.org/entity/Q3249	Calvados	FR251
+http://www.wikidata.org/entity/Q3139	Alpes-Maritimes	FR823
+http://www.wikidata.org/entity/Q224	Croatia	HR0
+http://www.wikidata.org/entity/Q1237	Trentino-South Tyrol	IT31
+http://www.wikidata.org/entity/Q1222	Aosta Valley	ITC20
+http://www.wikidata.org/entity/Q1447	Apulia	ITF4
+http://www.wikidata.org/entity/Q1250	Friuli-Venezia Giulia	ITH4
+http://www.wikidata.org/entity/Q347	Liechtenstein	LI0
+http://www.wikidata.org/entity/Q347	Liechtenstein	LI00
+http://www.wikidata.org/entity/Q347	Liechtenstein	LI000
+http://www.wikidata.org/entity/Q1101	North Brabant	NL41
+http://www.wikidata.org/entity/Q8518	Hohenlohe	DE119
+http://www.wikidata.org/entity/Q8523	Landkreis Heidenheim	DE11C
+http://www.wikidata.org/entity/Q8195	Breisgau-Hochschwarzwald	DE132
+http://www.wikidata.org/entity/Q8198	Lörrach	DE139
+http://www.wikidata.org/entity/Q8214	Tübingen	DE142
+http://www.wikidata.org/entity/Q10539	District of Erding	DE21A
+http://www.wikidata.org/entity/Q10544	Munich	DE21H
+http://www.wikidata.org/entity/Q10419	Tirschenreuth	DE23A
+http://www.wikidata.org/entity/Q10436	Kulmbach	DE24B
+http://www.wikidata.org/entity/Q10442	Lichtenfels	DE24C
+http://www.wikidata.org/entity/Q10454	Ansbach	DE256
+http://www.wikidata.org/entity/Q10449	Nürnberger Land	DE259
+http://www.wikidata.org/entity/Q10456	Neustadt (Aisch)-Bad Windsheim	DE25A
+http://www.wikidata.org/entity/Q10471	Aschaffenburg	DE264
+http://www.wikidata.org/entity/Q10415	Aichach-Friedberg	DE275
+http://www.wikidata.org/entity/Q10401	Lindau	DE27A
+http://www.wikidata.org/entity/Q10405	Ostallgäu	DE27B
+http://www.wikidata.org/entity/Q10418	Donau-Ries	DE27D
+http://www.wikidata.org/entity/Q6139	Havelland District	DE408
+http://www.wikidata.org/entity/Q6156	Oberspreewald-Lausitz District	DE40B
+http://www.wikidata.org/entity/Q6139	Havelland District	DE426
+http://www.wikidata.org/entity/Q6156	Oberspreewald-Lausitz District	DE427
+http://www.wikidata.org/entity/Q9627	Bad Doberan District	DE807
+http://www.wikidata.org/entity/Q5932	Friesland	DE94A
+http://www.wikidata.org/entity/Q6292	Rhein-Erft District	DEA27
+http://www.wikidata.org/entity/Q6191	Borken	DEA34
+http://www.wikidata.org/entity/Q7923	Detmold Government Region	DEA4
+http://www.wikidata.org/entity/Q5946	Hochsauerlandkreis	DEA57
+http://www.wikidata.org/entity/Q8559	Landkreis Kaiserslautern	DEB3F
+http://www.wikidata.org/entity/Q6805	Regionalverband Saarbrücken	DEC01
+http://www.wikidata.org/entity/Q7875	Sonneberg	DEG0H
+http://www.wikidata.org/entity/Q5777	Extremadura	ES43
+http://www.wikidata.org/entity/Q5705	Catalonia	ES51
+http://www.wikidata.org/entity/Q5783	Andalusia	ES61
+http://www.wikidata.org/entity/Q5831	Melilla	ES64
+http://www.wikidata.org/entity/Q5831	Melilla	ES640
+http://www.wikidata.org/entity/Q5692	Southern Ostrobothnia	FI194
+http://www.wikidata.org/entity/Q5709	Satakunta	FI196
+http://www.wikidata.org/entity/Q5700	Lapland	FI1D7
+http://www.wikidata.org/entity/Q12556	Indre-et-Loire	FR244
+http://www.wikidata.org/entity/Q12736	Saône-et-Loire	FR263
+http://www.wikidata.org/entity/Q12816	Yonne	FR264
+http://www.wikidata.org/entity/Q12782	Territoire de Belfort	FR434
+http://www.wikidata.org/entity/Q12642	Morbihan	FR524
+http://www.wikidata.org/entity/Q12580	Lozère	FR814
+http://www.wikidata.org/entity/Q12792	Vaucluse	FR826
+http://www.wikidata.org/entity/Q12578	Lot-et-Garonne	FRI14
+http://www.wikidata.org/entity/Q15096	Province of Vercelli	ITC12
+http://www.wikidata.org/entity/Q20250	Mittlerer Erzgebirgskreis	DED18
+http://www.wikidata.org/entity/Q20223	Aue-Schwarzenberg	DED1B
+http://www.wikidata.org/entity/Q20245	Löbau-Zittau	DED28
+http://www.wikidata.org/entity/Q24186	Leipzig Government Region	DED5
+http://www.wikidata.org/entity/Q26073	Capital Region of Denmark	DK01
+http://www.wikidata.org/entity/Q26589	Region Zealand	DK02
+http://www.wikidata.org/entity/Q17009	Poitou-Charentes	FR53
+http://www.wikidata.org/entity/Q16312	Province of Verbano-Cusio-Ossola	ITC14
+http://www.wikidata.org/entity/Q16274	Province of Savona	ITC32
+http://www.wikidata.org/entity/Q16199	Province of Lecco	ITC43
+http://www.wikidata.org/entity/Q16144	Province of Brescia	ITC47
+http://www.wikidata.org/entity/Q16231	Province of Pavia	ITC48
+http://www.wikidata.org/entity/Q2044	Florence	ITE14
+http://www.wikidata.org/entity/Q16151	Province of Campobasso	ITF22
+http://www.wikidata.org/entity/Q16283	Province of Taranto	ITF43
+http://www.wikidata.org/entity/Q16197	Province of Lecce	ITF45
+http://www.wikidata.org/entity/Q16206	Province of Matera	ITF52
+http://www.wikidata.org/entity/Q16149	Province of Cagliari	ITG27
+http://www.wikidata.org/entity/Q16314	Province of Verona	ITH31
+http://www.wikidata.org/entity/Q16247	Province of Pordenone	ITH41
+http://www.wikidata.org/entity/Q16252	Province of Ravenna	ITH57
+http://www.wikidata.org/entity/Q16180	Province of Forlì-Cesena	ITH58
+http://www.wikidata.org/entity/Q16172	Province of Florence	ITI14
+http://www.wikidata.org/entity/Q16244	Province of Pisa	ITI17
+http://www.wikidata.org/entity/Q16185	Province of Grosseto	ITI1A
+http://www.wikidata.org/entity/Q16181	Province of Frosinone	ITI45
+http://www.wikidata.org/entity/Q25263	Azores	PT200
+http://www.wikidata.org/entity/Q23099	Greater Manchester	UKD3
+http://www.wikidata.org/entity/Q23098	Derbyshire	UKF12
+http://www.wikidata.org/entity/Q23098	Derbyshire	UKF13
+http://www.wikidata.org/entity/Q23124	West Midlands	UKG3
+http://www.wikidata.org/entity/Q23109	Norfolk	UKH13
+http://www.wikidata.org/entity/Q42880	Tyrol	AT33
+http://www.wikidata.org/entity/Q38981	Vorarlberg	AT34
+http://www.wikidata.org/entity/Q46070	Plzeň Region	CZ032
+http://www.wikidata.org/entity/Q42448	Sheffield	UKE32
+http://www.wikidata.org/entity/Q3094812	West Wales	UKL1
+http://www.wikidata.org/entity/Q56036	West Berlin	DE301
+http://www.wikidata.org/entity/Q55180	Zaragoza Province	ES243
+http://www.wikidata.org/entity/Q55283	Segovia Province	ES416
+http://www.wikidata.org/entity/Q54925	Guadalajara Province	ES424
+http://www.wikidata.org/entity/Q50616	Hedmark	NO021
+http://www.wikidata.org/entity/Q50618	Buskerud	NO032
+http://www.wikidata.org/entity/Q50627	Møre og Romsdal	NO053
+http://www.wikidata.org/entity/Q50628	Sør-Trøndelag	NO061
+http://www.wikidata.org/entity/Q54171	Opole Voivodeship	PL52
+http://www.wikidata.org/entity/Q54153	Kuyavian-Pomeranian Voivodeship	PL61
+http://www.wikidata.org/entity/Q47983	North East England	UKC
+http://www.wikidata.org/entity/Q48063	Yorkshire and the Humber	UKE
+http://www.wikidata.org/entity/Q48026	South West England	UKK
+http://www.wikidata.org/entity/Q81977	Cáceres Province	ES432
+http://www.wikidata.org/entity/Q90895	Arrondissement of Antwerp	BE211
+http://www.wikidata.org/entity/Q91427	Arrondissement of Ostend	BE255
+http://www.wikidata.org/entity/Q94019	Arrondissement of Huy	BE331
+http://www.wikidata.org/entity/Q95027	Lugo Province	ES112
+http://www.wikidata.org/entity/Q95038	Ourense Province	ES113
+http://www.wikidata.org/entity/Q95088	Seville Province	ES618
+http://www.wikidata.org/entity/Q104926	Uppsala County	SE121
+http://www.wikidata.org/entity/Q104891	Västernorrland County	SE321
+http://www.wikidata.org/entity/Q103679	Jämtland County	SE322
+http://www.wikidata.org/entity/Q106789	Värmland County	SE311
+http://www.wikidata.org/entity/Q129387	Tekirdağ Province	TR211
+http://www.wikidata.org/entity/Q123934	Muğla Province	TR323
+http://www.wikidata.org/entity/Q134413	Sinop Province	TR823
+http://www.wikidata.org/entity/Q155219	Niğde Province	TR713
+http://www.wikidata.org/entity/Q156150	Powys	UKL24
+http://www.wikidata.org/entity/Q170291	West Greece Region	EL63
+http://www.wikidata.org/entity/Q852716	Western Transdanubia	HU22
+http://www.wikidata.org/entity/Q210097	Kilkis Regional Unit	EL123
+http://www.wikidata.org/entity/Q207552	Thesprotia Prefecture	EL212
+http://www.wikidata.org/entity/Q210563	London Borough of Wandsworth	UKI34
+http://www.wikidata.org/entity/Q204940	West Lothian	UKM28
+http://www.wikidata.org/entity/Q207111	North Lanarkshire	UKM36
+http://www.wikidata.org/entity/Q216802	Falkirk	UKM26
+http://www.wikidata.org/entity/Q268043	Isparta Province	TR612
+http://www.wikidata.org/entity/Q369220	Burgas Province	BG341
+http://www.wikidata.org/entity/Q432391	Düzce Province	TR423
+http://www.wikidata.org/entity/Q11922	Glarus	CH051
+http://www.wikidata.org/entity/Q475207	Klaipėda County	LT023
+http://www.wikidata.org/entity/Q483191	Kastamonu Province	TR821
+http://www.wikidata.org/entity/Q483195	Tokat Province	TR832
+http://www.wikidata.org/entity/Q483180	Ordu Province	TR902
+http://www.wikidata.org/entity/Q483481	Rize Province	TR904
+http://www.wikidata.org/entity/Q482788	Gümüşhane Province	TR906
+http://www.wikidata.org/entity/Q517363	Rheinhessen-Pfalz	DEB3
+http://www.wikidata.org/entity/Q559552	Mecklenburg-Strelitz	DE80B
+http://www.wikidata.org/entity/Q1199	Hesse	DE7
+http://www.wikidata.org/entity/Q620742	Tunceli Province	TRB14
+http://www.wikidata.org/entity/Q630305	Southern Great Plain	HU33
+http://www.wikidata.org/entity/Q669470	Alytus County	LT021
+http://www.wikidata.org/entity/Q769680	Bornholm	DK014
+http://www.wikidata.org/entity/Q763171	Wakefield	UKE45
+http://www.wikidata.org/entity/Q804311	Blagoevgrad Province	BG413
+http://www.wikidata.org/entity/Q846162	Pomurska	SI031
+http://www.wikidata.org/entity/Q856328	Podravska	SI032
+http://www.wikidata.org/entity/Q866838	Frederiksborg County	DK003
+http://www.wikidata.org/entity/Q866739	Ringkjøbing County	DK00C
+http://www.wikidata.org/entity/Q913773	Posavska	SI036
+http://www.wikidata.org/entity/Q19839493	Central Anatolia Region (statistical)	TR7
+http://www.wikidata.org/entity/Q1053723	Central Bedfordshire	UKH25
+http://www.wikidata.org/entity/Q1345149	Entre Douro e Vouga Subregion	PT116
+http://www.wikidata.org/entity/Q1501301	Lezíria do Tejo Subregion	PT185
+http://www.wikidata.org/entity/Q1541057	Central Slovakia	SK03
+http://www.wikidata.org/entity/Q1549155	Thurrock	UKH32
+http://www.wikidata.org/entity/Q2012621	Veliko Tarnovo Province	BG321
+http://www.wikidata.org/entity/Q2012589	Targovishte Province	BG334
+http://www.wikidata.org/entity/Q2392329	Lisbon metropolitan area	PT170
+http://www.wikidata.org/entity/Q222	Albania	AL0
+http://www.wikidata.org/entity/Q579075	Northeast Italy	ITH
+http://www.wikidata.org/entity/Q7458002	Severozápad	CZ04
+http://www.wikidata.org/entity/Q7565274	South-East Region, Ireland	IE024
+http://www.wikidata.org/entity/Q7565299	South-West Region, Ireland	IE025
+http://www.wikidata.org/entity/Q7565274	South-East Region, Ireland	IE052
+http://www.wikidata.org/entity/Q7565299	South-West Region, Ireland	IE053
+http://www.wikidata.org/entity/Q3934	Asturias	ES12
+http://www.wikidata.org/entity/Q10859773	Middle Norrland	SE32
+http://www.wikidata.org/entity/Q14920405	Burgenlandkreis	DEE22
+http://www.wikidata.org/entity/Q16355759	Vidzeme Region	LV008
+http://www.wikidata.org/entity/Q23306	Greater London	UKI
+http://www.wikidata.org/entity/Q54175	Podkarpackie Voivodeship	PL82
+http://www.wikidata.org/entity/Q19839535	Bursa Subregion	TR41
+http://www.wikidata.org/entity/Q19839566	Kastamonu Subregion	TR82
+http://www.wikidata.org/entity/Q19839576	Samsun Subregion	TR83
+http://www.wikidata.org/entity/Q19839584	Ağrı Subregion	TRA2
+http://www.wikidata.org/entity/Q229	Cyprus	CY0
+http://www.wikidata.org/entity/Q236	Montenegro	ME0
+http://www.wikidata.org/entity/Q107010882	Q107010882	PL5
+http://www.wikidata.org/entity/Q10551	Middle Franconia	DE25
+http://www.wikidata.org/entity/Q210176	Thessaloniki Regional Unit	EL122
+http://www.wikidata.org/entity/Q165408	West Macedonia Region	EL13
+http://www.wikidata.org/entity/Q93258311	Q93258311	LT01
+http://www.wikidata.org/entity/Q3120	Jura	FR432
+http://www.wikidata.org/entity/Q1152	Auvergne	FR72
+http://www.wikidata.org/entity/Q17012	Guadeloupe	FRA1
+http://www.wikidata.org/entity/Q1256	Liguria	ITC3
+http://www.wikidata.org/entity/Q1284	Abruzzo	ITF1
+http://www.wikidata.org/entity/Q1452	Basilicata	ITF5
+http://www.wikidata.org/entity/Q770	Friesland	NL12
+http://www.wikidata.org/entity/Q772	Drenthe	NL13
+http://www.wikidata.org/entity/Q776	Utrecht	NL31
+http://www.wikidata.org/entity/Q701	North Holland	NL32
+http://www.wikidata.org/entity/Q11911	Canton of Bern	CH021
+http://www.wikidata.org/entity/Q2966	Heidelberg	DE125
+http://www.wikidata.org/entity/Q8203	Schwarzwald-Baar district	DE136
+http://www.wikidata.org/entity/Q8233	Zollernalb	DE143
+http://www.wikidata.org/entity/Q3004	Ingolstadt	DE211
+http://www.wikidata.org/entity/Q10528	Traunstein	DE21M
+http://www.wikidata.org/entity/Q10516	Weilheim-Schongau	DE21N
+http://www.wikidata.org/entity/Q10487	Freyung-Grafenau	DE225
+http://www.wikidata.org/entity/Q10489	Passau	DE228
+http://www.wikidata.org/entity/Q10483	Regen district	DE229
+http://www.wikidata.org/entity/Q10480	Dingolfing-Landau	DE22C
+http://www.wikidata.org/entity/Q10421	Amberg-Sulzbach	DE234
+http://www.wikidata.org/entity/Q10466	Bad Kissingen	DE265
+http://www.wikidata.org/entity/Q10557	Swabia	DE27
+http://www.wikidata.org/entity/Q3994	Kempten	DE273
+http://www.wikidata.org/entity/Q10410	Neu-Ulm	DE279
+http://www.wikidata.org/entity/Q6173	Dahme-Spreewald District	DE406
+http://www.wikidata.org/entity/Q6173	Dahme-Spreewald District	DE424
+http://www.wikidata.org/entity/Q7912	Offenbach	DE71C
+http://www.wikidata.org/entity/Q7896	Werra-Meißner-Kreis	DE737
+http://www.wikidata.org/entity/Q4098	Greifswald	DE801
+http://www.wikidata.org/entity/Q3958	Neubrandenburg	DE802
+http://www.wikidata.org/entity/Q1709	Schwerin	DE804
+http://www.wikidata.org/entity/Q2773	Brunswick	DE911
+http://www.wikidata.org/entity/Q6053	Gifhorn	DE914
+http://www.wikidata.org/entity/Q6018	Northeim	DE918
+http://www.wikidata.org/entity/Q6037	Osterode	DE919
+http://www.wikidata.org/entity/Q6041	Wolfenbüttel	DE91B
+http://www.wikidata.org/entity/Q5958	Landkreis Nienburg/Weser	DE927
+http://www.wikidata.org/entity/Q5897	Cuxhaven	DE932
+http://www.wikidata.org/entity/Q5922	Heidekreis	DE938
+http://www.wikidata.org/entity/Q5906	Stade	DE939
+http://www.wikidata.org/entity/Q3907	Delmenhorst	DE941
+http://www.wikidata.org/entity/Q5947	Ammerland	DE946
+http://www.wikidata.org/entity/Q5936	Emsland	DE949
+http://www.wikidata.org/entity/Q5934	Leer	DE94C
+http://www.wikidata.org/entity/Q2805	Krefeld	DEA14
+http://www.wikidata.org/entity/Q2938	Leverkusen	DEA24
+http://www.wikidata.org/entity/Q2765	Gelsenkirchen	DEA32
+http://www.wikidata.org/entity/Q6234	Herford	DEA43
+http://www.wikidata.org/entity/Q5937	Märkischer Kreis	DEA58
+http://www.wikidata.org/entity/Q5965	Soest	DEA5B
+http://www.wikidata.org/entity/Q8602	Westerwaldkreis	DEB1B
+http://www.wikidata.org/entity/Q4149	Neustadt an der Weinstraße	DEB36
+http://www.wikidata.org/entity/Q3852	Worms	DEB39
+http://www.wikidata.org/entity/Q8569	Mainz-Bingen	DEB3J
+http://www.wikidata.org/entity/Q8552	Südwestpfalz	DEB3K
+http://www.wikidata.org/entity/Q6328	Mittelsachsen	DED43
+http://www.wikidata.org/entity/Q2079	Leipzig	DED51
+http://www.wikidata.org/entity/Q3828	Dessau-Roßlau	DEE01
+http://www.wikidata.org/entity/Q3798	Flensburg	DEF01
+http://www.wikidata.org/entity/Q7861	Eichsfeld	DEG06
+http://www.wikidata.org/entity/Q7871	Schmalkalden-Meiningen	DEG0B
+http://www.wikidata.org/entity/Q7884	Saale-Holzland-Kreis	DEG0J
+http://www.wikidata.org/entity/Q4040	Aragon	ES24
+http://www.wikidata.org/entity/Q8828	Majorca	ES532
+http://www.wikidata.org/entity/Q5823	Ceuta	ES63
+http://www.wikidata.org/entity/Q5823	Ceuta	ES630
+http://www.wikidata.org/entity/Q5697	Central Finland	FI193
+http://www.wikidata.org/entity/Q5708	Päijänne Tavastia	FI1C3
+http://www.wikidata.org/entity/Q5691	South Karelia	FI1C5
+http://www.wikidata.org/entity/Q3368	Essonne	FR104
+http://www.wikidata.org/entity/Q3372	Eure	FR231
+http://www.wikidata.org/entity/Q3349	Côtes-d'Armor	FR521
+http://www.wikidata.org/entity/Q3083	Ain	FR711
+http://www.wikidata.org/entity/Q3125	Hautes-Alpes	FR822
+http://www.wikidata.org/entity/Q9920	Haarlem	NL324
+http://www.wikidata.org/entity/Q2074197	Belgrade District	RS11
+http://www.wikidata.org/entity/Q12640	canton of Fribourg	CH022
+http://www.wikidata.org/entity/Q11972	Aargau	CH033
+http://www.wikidata.org/entity/Q12697	Canton of Schaffhausen	CH052
+http://www.wikidata.org/entity/Q12079	Appenzell Ausserrhoden	CH053
+http://www.wikidata.org/entity/Q12573	Obwalden	CH064
+http://www.wikidata.org/entity/Q12592	Nidwalden	CH065
+http://www.wikidata.org/entity/Q14805	Kaufbeuren	DE272
+http://www.wikidata.org/entity/Q20227	Chemnitzer Land	DED15
+http://www.wikidata.org/entity/Q12543	Hauts-de-Seine	FR105
+http://www.wikidata.org/entity/Q12594	Marne	FR213
+http://www.wikidata.org/entity/Q12607	Haute-Marne	FR214
+http://www.wikidata.org/entity/Q12574	Loiret	FR246
+http://www.wikidata.org/entity/Q16954	Lower Normandy	FR25
+http://www.wikidata.org/entity/Q12626	Meurthe-et-Moselle	FR411
+http://www.wikidata.org/entity/Q12703	Pyrenees-Atlantics	FR615
+http://www.wikidata.org/entity/Q12538	Haute-Garonne	FR623
+http://www.wikidata.org/entity/Q12745	Savoie	FR717
+http://www.wikidata.org/entity/Q12789	Var	FR825
+http://www.wikidata.org/entity/Q14112	Corsica	FR83
+http://www.wikidata.org/entity/Q17012	Guadeloupe	FRA10
+http://www.wikidata.org/entity/Q17063	Mayotte	FRA5
+http://www.wikidata.org/entity/Q15099	Province of Asti	ITC17
+http://www.wikidata.org/entity/Q16183	Province of Genoa	ITC33
+http://www.wikidata.org/entity/Q16249	Province of Potenza	ITF51
+http://www.wikidata.org/entity/Q16165	Province of Crotone	ITF62
+http://www.wikidata.org/entity/Q16220	Province of Nuoro	ITG26
+http://www.wikidata.org/entity/Q16286	Province of Terni	ITI22
+http://www.wikidata.org/entity/Q16318	Province of Viterbo	ITI41
+http://www.wikidata.org/entity/Q23135	Worcestershire	UKG12
+http://www.wikidata.org/entity/Q23293	East Sussex	UKJ22
+http://www.wikidata.org/entity/Q54888	Province of Cuenca	ES423
+http://www.wikidata.org/entity/Q107009247	Grad Zagreb	HR05
+http://www.wikidata.org/entity/Q50614	Østfold	NO031
+http://www.wikidata.org/entity/Q50625	Hordaland	NO051
+http://www.wikidata.org/entity/Q54184	Warmian-Masurian Voivodeship	PL62
+http://www.wikidata.org/entity/Q45220	Afyonkarahisar Province	TR332
+http://www.wikidata.org/entity/Q43690	Bursa Province	TR411
+http://www.wikidata.org/entity/Q75445	Yozgat Province	TR723
+http://www.wikidata.org/entity/Q90870	Arrondissement of Brussels-Capital	BE100
+http://www.wikidata.org/entity/Q93549	Arrondissement of Tongeren	BE223
+http://www.wikidata.org/entity/Q93392	Arrondissement of Leuven	BE242
+http://www.wikidata.org/entity/Q94087	Arrondissement of Mons	BE323
+http://www.wikidata.org/entity/Q80088	Burdur Province	TR613
+http://www.wikidata.org/entity/Q83342	Bartın Province	TR813
+http://www.wikidata.org/entity/Q115352	Merseburg-Querfurt	DEE24
+http://www.wikidata.org/entity/Q114207	Weißenfels District	DEE27
+http://www.wikidata.org/entity/Q114539	Quedlinburg	DEE38
+http://www.wikidata.org/entity/Q103672	Jönköping County	SE211
+http://www.wikidata.org/entity/Q126874	Kütahya Province	TR333
+http://www.wikidata.org/entity/Q131387	Muş Province	TRB22
+http://www.wikidata.org/entity/Q131293	Mardin Province	TRC31
+http://www.wikidata.org/entity/Q171314	East Macedonia and Thrace	EL11
+http://www.wikidata.org/entity/Q170054	Arcadia Prefecture	EL252
+http://www.wikidata.org/entity/Q183139	Trenčín Region	SK022
+http://www.wikidata.org/entity/Q178356	Walsall	UKG38
+http://www.wikidata.org/entity/Q191091	Karlovy Vary Region	CZ041
+http://www.wikidata.org/entity/Q192536	Zlín Region	CZ072
+http://www.wikidata.org/entity/Q199580	Central Greece Region	EL64
+http://www.wikidata.org/entity/Q207201	London Borough of Brent	UKI72
+http://www.wikidata.org/entity/Q216482	Trikala Prefecture	EL144
+http://www.wikidata.org/entity/Q219956	Zonguldak Province	TR811
+http://www.wikidata.org/entity/Q283305	Roskilde County	DK004
+http://www.wikidata.org/entity/Q285964	Sandwell	UKG37
+http://www.wikidata.org/entity/Q344490	İzmir Province	TR310
+http://www.wikidata.org/entity/Q385635	Ludwigslust	DE80A
+http://www.wikidata.org/entity/Q463347	Nordjylland	DK050
+http://www.wikidata.org/entity/Q482834	Kahramanmaraş Province	TR632
+http://www.wikidata.org/entity/Q559510	Nordvorpommern	DE80D
+http://www.wikidata.org/entity/Q559492	Uecker-Randow	DE80I
+http://www.wikidata.org/entity/Q649864	Sud-Est	RO22
+http://www.wikidata.org/entity/Q747780	Médio Tejo Subregion	PT16I
+http://www.wikidata.org/entity/Q814838	Beira Interior Norte Subregion	PT128
+http://www.wikidata.org/entity/Q814838	Beira Interior Norte Subregion	PT168
+http://www.wikidata.org/entity/Q866849	North Jutland County	DK00F
+http://www.wikidata.org/entity/Q893986	Bornholm County	DK007
+http://www.wikidata.org/entity/Q1083742	Vest	RO42
+http://www.wikidata.org/entity/Q1136118	Torbay	UKK42
+http://www.wikidata.org/entity/Q1510035	Grande Porto	PT114
+http://www.wikidata.org/entity/Q1500660	Oeste Subregion	PT16B
+http://www.wikidata.org/entity/Q1585725	Sofia City Province	BG411
+http://www.wikidata.org/entity/Q2790675	Razgrad Province	BG324
+http://www.wikidata.org/entity/Q6192497	Jihovýchod	CZ06
+http://www.wikidata.org/entity/Q7986331	West Region, Ireland	IE013
+http://www.wikidata.org/entity/Q7986331	West Region, Ireland	IE042
+http://www.wikidata.org/entity/Q12039506	NUTS2 Region Prague	CZ01
+http://www.wikidata.org/entity/Q13423484	Landsbyggð	IS002
+http://www.wikidata.org/entity/Q19839543	Kocaeli Subregion	TR42
+http://www.wikidata.org/entity/Q19839556	Hatay Subregion	TR63
+http://www.wikidata.org/entity/Q19839673	Mardin Subregion	TRC3
+http://www.wikidata.org/entity/Q107010716	Noroeste	ES1
+http://www.wikidata.org/entity/Q12299167	Macroregiunea Patru	RO4
+http://www.wikidata.org/entity/Q107010726	Centro (ES)	ES4
+http://www.wikidata.org/entity/Q840562	Transdanubia	HU2
+http://www.wikidata.org/entity/Q106915	Södermanland County	SE122
+http://www.wikidata.org/entity/Q173616	South Aegean	EL42
+http://www.wikidata.org/entity/Q1741	Vienna	AT13
+http://www.wikidata.org/entity/Q67122656	Northern and Eastern Bulgaria	BG3
+http://www.wikidata.org/entity/Q231	Wallonia	BE3
+http://www.wikidata.org/entity/Q107305230	Denmark	DK0
+http://www.wikidata.org/entity/Q35	Denmark	DK00
+http://www.wikidata.org/entity/Q37	Lithuania	LT0
+http://www.wikidata.org/entity/Q37	Lithuania	LT00
+http://www.wikidata.org/entity/Q775	Gelderland	NL22
+http://www.wikidata.org/entity/Q20	Norway	NO0
+http://www.wikidata.org/entity/Q1741	Vienna	AT130
+http://www.wikidata.org/entity/Q16442662	Q16442662	AT130
+http://www.wikidata.org/entity/Q1022	Stuttgart	DE111
+http://www.wikidata.org/entity/Q8533	Esslingen	DE113
+http://www.wikidata.org/entity/Q8186	Calw District	DE12A
+http://www.wikidata.org/entity/Q8217	Reutlingen	DE141
+http://www.wikidata.org/entity/Q6125	Ostprignitz-Ruppin District	DE40D
+http://www.wikidata.org/entity/Q6132	Prignitz District	DE40F
+http://www.wikidata.org/entity/Q6125	Ostprignitz-Ruppin District	DE416
+http://www.wikidata.org/entity/Q6132	Prignitz District	DE417
+http://www.wikidata.org/entity/Q1055	Hamburg	DE60
+http://www.wikidata.org/entity/Q1055	Hamburg	DE600
+http://www.wikidata.org/entity/Q7910	Wetteraukreis	DE71E
+http://www.wikidata.org/entity/Q2909	Vorpommern-Rügen District	DE80L
+http://www.wikidata.org/entity/Q1197	Lower Saxony	DE9
+http://www.wikidata.org/entity/Q6040	Goslar	DE916
+http://www.wikidata.org/entity/Q5978	Hildesheim	DE925
+http://www.wikidata.org/entity/Q5926	Osterholz	DE936
+http://www.wikidata.org/entity/Q2916	Osnabrück	DE944
+http://www.wikidata.org/entity/Q5945	Cloppenburg	DE948
+http://www.wikidata.org/entity/Q5939	County of Bentheim	DE94B
+http://www.wikidata.org/entity/Q6280	Euskirchen	DEA28
+http://www.wikidata.org/entity/Q6224	Paderborn	DEA47
+http://www.wikidata.org/entity/Q2871	Hagen	DEA53
+http://www.wikidata.org/entity/Q5953	Olpe	DEA59
+http://www.wikidata.org/entity/Q3104	Koblenz	DEB11
+http://www.wikidata.org/entity/Q8574	Rhein-Hunsrück-Kreis	DEB19
+http://www.wikidata.org/entity/Q6794	Saarlouis	DEC04
+http://www.wikidata.org/entity/Q2795	Chemnitz	DED41
+http://www.wikidata.org/entity/Q6330	Zwickau	DED45
+http://www.wikidata.org/entity/Q6301	Nordsachsen	DED53
+http://www.wikidata.org/entity/Q3879	Neumünster	DEF04
+http://www.wikidata.org/entity/Q3006	Pinneberg	DEF09
+http://www.wikidata.org/entity/Q2980	Segeberg	DEF0D
+http://www.wikidata.org/entity/Q1729	Erfurt	DEG01
+http://www.wikidata.org/entity/Q7872	Landkreis Hildburghausen	DEG0E
+http://www.wikidata.org/entity/Q5772	Region of Murcia	ES62
+http://www.wikidata.org/entity/Q5772	Region of Murcia	ES620
+http://www.wikidata.org/entity/Q5704	Northern Ostrobothnia	FI1D6
+http://www.wikidata.org/entity/Q5689	Åland	FI20
+http://www.wikidata.org/entity/Q5689	Åland	FI200
+http://www.wikidata.org/entity/Q1142	Alsace	FR42
+http://www.wikidata.org/entity/Q3361	Doubs	FR431
+http://www.wikidata.org/entity/Q3068	Loire-Atlantique	FR511
+http://www.wikidata.org/entity/Q3389	Finistère	FR522
+http://www.wikidata.org/entity/Q1179	Aquitaine	FR61
+http://www.wikidata.org/entity/Q3216	Aveyron	FR622
+http://www.wikidata.org/entity/Q1173	Burgundy	FRC1
+http://www.wikidata.org/entity/Q11929	Canton of Solothurn	CH023
+http://www.wikidata.org/entity/Q12121	Canton of Lucerne	CH061
+http://www.wikidata.org/entity/Q12404	Uri	CH062
+http://www.wikidata.org/entity/Q10500	Dachau	DE217
+http://www.wikidata.org/entity/Q10537	Mühldorf	DE21G
+http://www.wikidata.org/entity/Q10429	Regensburg	DE238
+http://www.wikidata.org/entity/Q10434	Kronach	DE24A
+http://www.wikidata.org/entity/Q14889	Schwabach	DE255
+http://www.wikidata.org/entity/Q10459	Kitzingen	DE268
+http://www.wikidata.org/entity/Q14825	Memmingen	DE274
+http://www.wikidata.org/entity/Q10408	Unterallgäu	DE27C
+http://www.wikidata.org/entity/Q14849	Pirmasens	DEB37
+http://www.wikidata.org/entity/Q20259	Niederschlesischer Oberlausitzkreis	DED26
+http://www.wikidata.org/entity/Q20230	Delitzsch	DED32
+http://www.wikidata.org/entity/Q17152	Centre Macedonia Region	EL12
+http://www.wikidata.org/entity/Q12820	Yvelines	FR103
+http://www.wikidata.org/entity/Q12784	Val-d'Oise	FR108
+http://www.wikidata.org/entity/Q12758	Seine-Maritime	FR232
+http://www.wikidata.org/entity/Q16987	Nord-Pas-de-Calais	FR3
+http://www.wikidata.org/entity/Q16987	Nord-Pas-de-Calais	FR30
+http://www.wikidata.org/entity/Q12730	Haute-Saône	FR433
+http://www.wikidata.org/entity/Q17005	Languedoc-Roussillon	FR81
+http://www.wikidata.org/entity/Q12709	Pyrénées-Orientales	FR815
+http://www.wikidata.org/entity/Q15094	Province of Biella	ITC13
+http://www.wikidata.org/entity/Q16242	Province of Pescara	ITF13
+http://www.wikidata.org/entity/Q16187	Province of Isernia	ITF21
+http://www.wikidata.org/entity/Q15129	Province of Foggia	ITF46
+http://www.wikidata.org/entity/Q16154	Province of Catania	ITG17
+http://www.wikidata.org/entity/Q16152	Province of Carbonia-Iglesias	ITG2C
+http://www.wikidata.org/entity/Q16316	Province of Vicenza	ITH32
+http://www.wikidata.org/entity/Q16270	Province of Rovigo	ITH37
+http://www.wikidata.org/entity/Q16184	Province of Gorizia	ITH43
+http://www.wikidata.org/entity/Q16275	Province of Siena	ITI19
+http://www.wikidata.org/entity/Q16203	Province of Macerata	ITI33
+http://www.wikidata.org/entity/Q16117	Province of Ascoli Piceno	ITI34
+http://www.wikidata.org/entity/Q16167	Province of Fermo	ITI35
+http://www.wikidata.org/entity/Q15119	Province of Rome	ITI43
+http://www.wikidata.org/entity/Q9679	Isle of Wight	UKJ34
+http://www.wikidata.org/entity/Q24221	Dresden Directorate District	DED2
+http://www.wikidata.org/entity/Q26824	Alentejo region	PT18
+http://www.wikidata.org/entity/Q23106	Leicestershire	UKF22
+http://www.wikidata.org/entity/Q23107	Rutland	UKF22
+http://www.wikidata.org/entity/Q23140	Warwickshire	UKG13
+http://www.wikidata.org/entity/Q23112	Cambridgeshire	UKH12
+http://www.wikidata.org/entity/Q23148	Cornwall	UKK3
+http://www.wikidata.org/entity/Q23148	Cornwall	UKK30
+http://www.wikidata.org/entity/Q50621	Aust-Agder	NO041
+http://www.wikidata.org/entity/Q50623	Vest-Agder	NO042
+http://www.wikidata.org/entity/Q50632	Finnmark	NO073
+http://www.wikidata.org/entity/Q54150	Lower Silesian Voivodeship	PL51
+http://www.wikidata.org/entity/Q54183	Świętokrzyskie Voivodeship	PL72
+http://www.wikidata.org/entity/Q54155	Lublin Voivodeship	PL81
+http://www.wikidata.org/entity/Q43924	Adıyaman Province	TRC12
+http://www.wikidata.org/entity/Q42462	York	UKE21
+http://www.wikidata.org/entity/Q41262	Nottingham	UKF14
+http://www.wikidata.org/entity/Q12639270	Pannonian Croatia	HR02
+http://www.wikidata.org/entity/Q7058276	Northern Croatia	HR06
+http://www.wikidata.org/entity/Q90954	Arrondissement of Sint-Niklaas	BE236
+http://www.wikidata.org/entity/Q94095	Arrondissement of Mouscron	BE324
+http://www.wikidata.org/entity/Q93816	Arrondissement of Arlon	BE341
+http://www.wikidata.org/entity/Q93860	Arrondissement of Virton	BE345
+http://www.wikidata.org/entity/Q81978	Cádiz Province	ES612
+http://www.wikidata.org/entity/Q83274	Hatay Province	TR631
+http://www.wikidata.org/entity/Q80036	Amasya Province	TR834
+http://www.wikidata.org/entity/Q93209	Hakkâri Province	TRB24
+http://www.wikidata.org/entity/Q83065	Leicester	UKF21
+http://www.wikidata.org/entity/Q113120	Sliven Province	BG342
+http://www.wikidata.org/entity/Q114127	district of Wernigerode	DEE3A
+http://www.wikidata.org/entity/Q95086	Pontevedra Province	ES114
+http://www.wikidata.org/entity/Q95010	Gipuzkoa	ES212
+http://www.wikidata.org/entity/Q95025	Jaén Province	ES616
+http://www.wikidata.org/entity/Q99976	Santa Cruz de Tenerife Province	ES702
+http://www.wikidata.org/entity/Q21891722	City of Stoke-on-Trent	UKG23
+http://www.wikidata.org/entity/Q148188	Zasavska	SI035
+http://www.wikidata.org/entity/Q172438	Peterborough	UKH11
+http://www.wikidata.org/entity/Q193317	Pardubice Region	CZ053
+http://www.wikidata.org/entity/Q201689	La Palma	ES707
+http://www.wikidata.org/entity/Q781747	Southern Transdanubia	HU23
+http://www.wikidata.org/entity/Q186410	Šiauliai County	LT026
+http://www.wikidata.org/entity/Q188659	Utena County	LT029
+http://www.wikidata.org/entity/Q189001	Prešov Region	SK041
+http://www.wikidata.org/entity/Q186295	Košice Region	SK042
+http://www.wikidata.org/entity/Q23095	South Yorkshire	UKE3
+http://www.wikidata.org/entity/Q210531	London Borough of Enfield	UKI54
+http://www.wikidata.org/entity/Q209142	South Lanarkshire	UKM38
+http://www.wikidata.org/entity/Q316455	Halle Government Region	DEE2
+http://www.wikidata.org/entity/Q375299	Primorsko-notranjska	SI038
+http://www.wikidata.org/entity/Q388469	Şanlıurfa Province	TRC21
+http://www.wikidata.org/entity/Q487070	Dessau	DEE11
+http://www.wikidata.org/entity/Q483168	Karabük Province	TR812
+http://www.wikidata.org/entity/Q483091	Elazığ Province	TRB12
+http://www.wikidata.org/entity/Q549369	Savinjska	SI034
+http://www.wikidata.org/entity/Q2010004	Oberkärnten	AT212
+http://www.wikidata.org/entity/Q634735	Ave Subregion	PT119
+http://www.wikidata.org/entity/Q659845	Gorenjska	SI042
+http://www.wikidata.org/entity/Q701613	Weinviertel	AT125
+http://www.wikidata.org/entity/Q697691	Traunviertel	AT315
+http://www.wikidata.org/entity/Q756891	Viborg County	DK00E
+http://www.wikidata.org/entity/Q836670	Bördekreis	DEE33
+http://www.wikidata.org/entity/Q866856	Ribe County	DK00A
+http://www.wikidata.org/entity/Q858792	Goriška	SI043
+http://www.wikidata.org/entity/Q874380	Tyrolean Oberland	AT334
+http://www.wikidata.org/entity/Q894077	Bedford	UKH24
+http://www.wikidata.org/entity/Q191	Estonia	EE00
+http://www.wikidata.org/entity/Q1063649	Elis Regional Unit	EL233
+http://www.wikidata.org/entity/Q1149837	Cávado	PT112
+http://www.wikidata.org/entity/Q1269630	Viseu Dão Lafões Subregion	PT16G
+http://www.wikidata.org/entity/Q1345331	Midlands Region	IE012
+http://www.wikidata.org/entity/Q1345331	Midlands Region	IE063
+http://www.wikidata.org/entity/Q2012772	Vidin Province	BG311
+http://www.wikidata.org/entity/Q2012583	Stara Zagora Province	BG344
+http://www.wikidata.org/entity/Q2012227	Pazardzhik Province	BG423
+http://www.wikidata.org/entity/Q2012430	Smolyan Province	BG424
+http://www.wikidata.org/entity/Q2215914	Q2215914	AT323
+http://www.wikidata.org/entity/Q2652989	Metropolitan Area of Porto	PT11A
+http://www.wikidata.org/entity/Q3563983	Northern Greece	EL5
+http://www.wikidata.org/entity/Q4944607	Border Region	IE011
+http://www.wikidata.org/entity/Q4944607	Border Region	IE041
+http://www.wikidata.org/entity/Q5329630	East Wales	UKL2
+http://www.wikidata.org/entity/Q7056107	North Middle Sweden	SE31
+http://www.wikidata.org/entity/Q19839562	Kayseri Subregion	TR72
+http://www.wikidata.org/entity/Q19839608	Gaziantep Subregion	TRC1
+http://www.wikidata.org/entity/Q559600	Güstrow	DE809
+http://www.wikidata.org/entity/Q30082602	Q30082602	BG31
+http://www.wikidata.org/entity/Q758056	Attica Region	EL30
+http://www.wikidata.org/entity/Q4412051	North Albania	AL01
+http://www.wikidata.org/entity/Q1113	West Flanders	BE25
+http://www.wikidata.org/entity/Q1122	Walloon Brabant	BE31
+http://www.wikidata.org/entity/Q1129	Hainaut	BE32
+http://www.wikidata.org/entity/Q1127	Liège	BE33
+http://www.wikidata.org/entity/Q1125	Namur	BE35
+http://www.wikidata.org/entity/Q39	Switzerland	CH0
+http://www.wikidata.org/entity/Q1726	Munich	DE212
+http://www.wikidata.org/entity/Q3974	Landshut	DE221
+http://www.wikidata.org/entity/Q2749	Augsburg	DE271
+http://www.wikidata.org/entity/Q1208	Brandenburg	DE40
+http://www.wikidata.org/entity/Q6181	Märkisch-Oderland District	DE409
+http://www.wikidata.org/entity/Q6178	Oder-Spree District	DE40C
+http://www.wikidata.org/entity/Q6109	Uckermark District	DE40I
+http://www.wikidata.org/entity/Q6181	Märkisch-Oderland District	DE413
+http://www.wikidata.org/entity/Q6178	Oder-Spree District	DE415
+http://www.wikidata.org/entity/Q6109	Uckermark District	DE418
+http://www.wikidata.org/entity/Q1196	Mecklenburg-Western Pomerania	DE8
+http://www.wikidata.org/entity/Q1196	Mecklenburg-Western Pomerania	DE80
+http://www.wikidata.org/entity/Q2898	Rostock District	DE80K
+http://www.wikidata.org/entity/Q6045	Peine	DE91A
+http://www.wikidata.org/entity/Q5966	Schaumburg	DE928
+http://www.wikidata.org/entity/Q5913	Lüchow-Dannenberg District	DE934
+http://www.wikidata.org/entity/Q5952	Oldenburg	DE94D
+http://www.wikidata.org/entity/Q5941	Vechta	DE94F
+http://www.wikidata.org/entity/Q2899	Mülheim an der Ruhr	DEA16
+http://www.wikidata.org/entity/Q2838	Oberhausen	DEA17
+http://www.wikidata.org/entity/Q6295	Rhein-Berg District	DEA2B
+http://www.wikidata.org/entity/Q2112	Bielefeld	DEA41
+http://www.wikidata.org/entity/Q6239	Minden-Lübbecke District	DEA46
+http://www.wikidata.org/entity/Q1720	Mainz	DEB35
+http://www.wikidata.org/entity/Q6308	Landkreis Leipzig	DED52
+http://www.wikidata.org/entity/Q6102	Burgenlandkreis	DEE08
+http://www.wikidata.org/entity/Q6087	Harz District	DEE09
+http://www.wikidata.org/entity/Q4018	Navarre	ES22
+http://www.wikidata.org/entity/Q4018	Navarre	ES220
+http://www.wikidata.org/entity/Q107356467	Balearic Islands	ES53
+http://www.wikidata.org/entity/Q5694	Kainuu	FI1D4
+http://www.wikidata.org/entity/Q3105	Vosges	FR414
+http://www.wikidata.org/entity/Q3266	Charente	FR531
+http://www.wikidata.org/entity/Q3357	Dordogne	FR611
+http://www.wikidata.org/entity/Q3148	Ardèche	FR712
+http://www.wikidata.org/entity/Q3131	Alpes-de-Haute-Provence	FR821
+http://www.wikidata.org/entity/Q3336	Corse-du-Sud	FR831
+http://www.wikidata.org/entity/Q705	Zeeland	NL34
+http://www.wikidata.org/entity/Q4093	Glasgow	UKM34
+http://www.wikidata.org/entity/Q12738	Canton of Neuchâtel	CH024
+http://www.wikidata.org/entity/Q12094	Appenzell Innerrhoden	CH054
+http://www.wikidata.org/entity/Q8182	Rastatt	DE124
+http://www.wikidata.org/entity/Q8193	Emmendingen	DE133
+http://www.wikidata.org/entity/Q8211	Rottweil	DE135
+http://www.wikidata.org/entity/Q8206	Konstanz	DE138
+http://www.wikidata.org/entity/Q8200	Waldshut	DE13A
+http://www.wikidata.org/entity/Q8221	Alb-Donau-Kreis	DE145
+http://www.wikidata.org/entity/Q10533	Altötting	DE214
+http://www.wikidata.org/entity/Q10522	Bad Tölz-Wolfratshausen	DE216
+http://www.wikidata.org/entity/Q10497	Freising	DE21B
+http://www.wikidata.org/entity/Q10493	Neuburg-Schrobenhausen	DE21I
+http://www.wikidata.org/entity/Q10477	Rottal-Inn	DE22A
+http://www.wikidata.org/entity/Q10423	Schwandorf	DE239
+http://www.wikidata.org/entity/Q10439	Bayreuth	DE246
+http://www.wikidata.org/entity/Q10431	Hof	DE249
+http://www.wikidata.org/entity/Q10472	Miltenberg	DE269
+http://www.wikidata.org/entity/Q10461	Schweinfurt	DE26B
+http://www.wikidata.org/entity/Q7898	Hersfeld-Rotenburg	DE733
+http://www.wikidata.org/entity/Q7890	Landkreis Kassel	DE734
+http://www.wikidata.org/entity/Q7893	Waldeck-Frankenberg	DE736
+http://www.wikidata.org/entity/Q7920	Münster Government Region	DEA3
+http://www.wikidata.org/entity/Q11280	Ennepe-Ruhr-Kreis	DEA56
+http://www.wikidata.org/entity/Q8575	Birkenfeld	DEB15
+http://www.wikidata.org/entity/Q8593	Mayen-Koblenz	DEB17
+http://www.wikidata.org/entity/Q8583	Vulkaneifel	DEB24
+http://www.wikidata.org/entity/Q7052	Landau in der Pfalz	DEB33
+http://www.wikidata.org/entity/Q8564	Donnersbergkreis	DEB3D
+http://www.wikidata.org/entity/Q8543	Germersheim	DEB3E
+http://www.wikidata.org/entity/Q14904	Hoyerswerda	DED23
+http://www.wikidata.org/entity/Q14891	Suhl	DEG04
+http://www.wikidata.org/entity/Q7878	Ilm-Kreis	DEG0F
+http://www.wikidata.org/entity/Q12788	Val-de-Marne	FR107
+http://www.wikidata.org/entity/Q12717	Bas-Rhin	FR421
+http://www.wikidata.org/entity/Q12559	Isère	FR714
+http://www.wikidata.org/entity/Q12515	Gard	FR812
+http://www.wikidata.org/entity/Q15124	South Tyrol	IT311
+http://www.wikidata.org/entity/Q16289	Trentino	IT312
+http://www.wikidata.org/entity/Q15124	South Tyrol	ITD1
+http://www.wikidata.org/entity/Q15124	South Tyrol	ITD10
+http://www.wikidata.org/entity/Q16289	Trentino	ITD20
+http://www.wikidata.org/entity/Q16160	Province of Chieti	ITF14
+http://www.wikidata.org/entity/Q16124	Province of Barletta-Andria-Trani	ITF48
+http://www.wikidata.org/entity/Q16162	Province of Cosenza	ITF61
+http://www.wikidata.org/entity/Q16288	Province of Trapani	ITG11
+http://www.wikidata.org/entity/Q16112	Province of Agrigento	ITG14
+http://www.wikidata.org/entity/Q15124	South Tyrol	ITH1
+http://www.wikidata.org/entity/Q15124	South Tyrol	ITH10
+http://www.wikidata.org/entity/Q16289	Trentino	ITH20
+http://www.wikidata.org/entity/Q16139	Province of Bologna	ITH55
+http://www.wikidata.org/entity/Q16268	Province of Rimini	ITH59
+http://www.wikidata.org/entity/Q16245	Province of Pistoia	ITI13
+http://www.wikidata.org/entity/Q16241	Pesaro and Urbino Province	ITI31
+http://www.wikidata.org/entity/Q20253	Mittweida	DED19
+http://www.wikidata.org/entity/Q20274	Weißeritzkreis	DED2A
+http://www.wikidata.org/entity/Q23229	Buckinghamshire	UKJ13
+http://www.wikidata.org/entity/Q23287	West Sussex	UKJ24
+http://www.wikidata.org/entity/Q23157	Somerset	UKK23
+http://www.wikidata.org/entity/Q23156	Devon	UKK43
+http://www.wikidata.org/entity/Q42497	Lower Austria	AT12
+http://www.wikidata.org/entity/Q37985	Carinthia	AT21
+http://www.wikidata.org/entity/Q41967	Upper Austria	AT31
+http://www.wikidata.org/entity/Q47813	Çanakkale Province	TR222
+http://www.wikidata.org/entity/Q46763	Bilecik Province	TR413
+http://www.wikidata.org/entity/Q43475	Derby	UKF11
+http://www.wikidata.org/entity/Q48015	South East England	UKJ
+http://www.wikidata.org/entity/Q43382	Plymouth	UKK41
+http://www.wikidata.org/entity/Q54889	Albacete Province	ES421
+http://www.wikidata.org/entity/Q54187	Greater Poland Voivodeship	PL41
+http://www.wikidata.org/entity/Q54188	West Pomeranian Voivodeship	PL42
+http://www.wikidata.org/entity/Q71140	León Province	ES413
+http://www.wikidata.org/entity/Q71080	Salamanca Province	ES415
+http://www.wikidata.org/entity/Q81949	Barcelona Province	ES511
+http://www.wikidata.org/entity/Q80550	Van Province	TRB21
+http://www.wikidata.org/entity/Q83239	Bitlis Province	TRB23
+http://www.wikidata.org/entity/Q91045	Arrondissement of Bruges	BE251
+http://www.wikidata.org/entity/Q91402	Arrondissement of Diksmuide	BE252
+http://www.wikidata.org/entity/Q91439	Arrondissement of Roeselare	BE256
+http://www.wikidata.org/entity/Q93707	Arrondissement of Nivelles	BE310
+http://www.wikidata.org/entity/Q94139	Arrondissement of Tournai	BE327
+http://www.wikidata.org/entity/Q93873	Arrondissement of Neufchâteau	BE344
+http://www.wikidata.org/entity/Q93782	Arrondissement of Namur	BE352
+http://www.wikidata.org/entity/Q98392	Tarragona Province	ES514
+http://www.wikidata.org/entity/Q104257	Örebro County	SE124
+http://www.wikidata.org/entity/Q103707	Kalmar County	SE213
+http://www.wikidata.org/entity/Q103093	Västra Götaland County	SE232
+http://www.wikidata.org/entity/Q103732	Dalarna County	SE312
+http://www.wikidata.org/entity/Q114157	Bernburg	DEE13
+http://www.wikidata.org/entity/Q114614	Bitterfeld	DEE14
+http://www.wikidata.org/entity/Q130553	Manisa Province	TR331
+http://www.wikidata.org/entity/Q128978	Kilis Province	TRC13
+http://www.wikidata.org/entity/Q134187	Kırşehir Province	TR715
+http://www.wikidata.org/entity/Q164955	Müritz	DE80C
+http://www.wikidata.org/entity/Q165861	Dessau Government Region	DEE1
+http://www.wikidata.org/entity/Q164071	South Jutland County	DK009
+http://www.wikidata.org/entity/Q165408	West Macedonia Region	EL53
+http://www.wikidata.org/entity/Q183487	Varna Province	BG331
+http://www.wikidata.org/entity/Q187874	Plovdiv region	BG421
+http://www.wikidata.org/entity/Q188399	Central Bohemian Region	CZ020
+http://www.wikidata.org/entity/Q188373	South Bohemian Region	CZ031
+http://www.wikidata.org/entity/Q193295	Hradec Králové Region	CZ052
+http://www.wikidata.org/entity/Q192697	South Moravian Region	CZ064
+http://www.wikidata.org/entity/Q182432	Lanzarote	ES708
+http://www.wikidata.org/entity/Q188963	Telšiai County	LT028
+http://www.wikidata.org/entity/Q634271	Sud-Vest Oltenia	RO41
+http://www.wikidata.org/entity/Q23298	Kent	UKJ4
+http://www.wikidata.org/entity/Q202904	Sofia Province	BG412
+http://www.wikidata.org/entity/Q208201	London Borough of Bromley	UKI61
+http://www.wikidata.org/entity/Q271176	Aarhus County	DK00D
+http://www.wikidata.org/entity/Q376797	Erzurum Province	TRA11
+http://www.wikidata.org/entity/Q443584	Alto Trás-os-Montes Subregion	PT118
+http://www.wikidata.org/entity/Q483083	Yalova Province	TR425
+http://www.wikidata.org/entity/Q559530	Demmin	DE808
+http://www.wikidata.org/entity/Q644592	Alentejo Litoral Subregion	PT181
+http://www.wikidata.org/entity/Q2436248	Innsbruck	AT332
+http://www.wikidata.org/entity/Q12646875	Q12646875	AT221
+http://www.wikidata.org/entity/Q673562	Koroška	SI033
+http://www.wikidata.org/entity/Q684307	Wigan	UKD32
+http://www.wikidata.org/entity/Q874361	Tyrolean Unterland	AT335
+http://www.wikidata.org/entity/Q962153	Central Transdanubia	HU21
+http://www.wikidata.org/entity/Q1171024	Darlington	UKC13
+http://www.wikidata.org/entity/Q1286223	South Wales	UKL15
+http://www.wikidata.org/entity/Q1286223	South Wales	UKL16
+http://www.wikidata.org/entity/Q1286223	South Wales	UKL17
+http://www.wikidata.org/entity/Q1286223	South Wales	UKL21
+http://www.wikidata.org/entity/Q1286223	South Wales	UKL22
+http://www.wikidata.org/entity/Q1425298	Telford and Wrekin	UKG21
+http://www.wikidata.org/entity/Q6840838	Mid-West Region	IE023
+http://www.wikidata.org/entity/Q6840838	Mid-West Region	IE051
+http://www.wikidata.org/entity/Q363496	Eastern Slovakia	SK04
+http://www.wikidata.org/entity/Q7780449	Preveza Prefecture	EL214
+http://www.wikidata.org/entity/Q18393915	Região de Aveiro	PT16D
+http://www.wikidata.org/entity/Q19839582	Erzurum Subregion	TRA1
+http://www.wikidata.org/entity/Q2002438	Southern Netherlands	NL4
+http://www.wikidata.org/entity/Q107010892	Q107010892	PL9
+http://www.wikidata.org/entity/Q29962533	Pierīga statistical region	LV007
+http://www.wikidata.org/entity/Q32	Luxembourg	LU0
+http://www.wikidata.org/entity/Q76713431	Açores (NUTS 2)	PT20
+http://www.wikidata.org/entity/Q76714283	Madeira (NUTS 2)	PT30
+http://www.wikidata.org/entity/Q834	Canton of Valais	CH012
+http://www.wikidata.org/entity/Q1085	Prague	CZ010
+http://www.wikidata.org/entity/Q980	Bavaria	DE2
+http://www.wikidata.org/entity/Q1209	Free Hanseatic City of Bremen	DE50
+http://www.wikidata.org/entity/Q365	Cologne	DEA23
+http://www.wikidata.org/entity/Q2103	Bochum	DEA51
+http://www.wikidata.org/entity/Q1206	Saxony-Anhalt	DEE0
+http://www.wikidata.org/entity/Q1137	Lorraine	FR41
+http://www.wikidata.org/entity/Q1438	Campania	ITF3
+http://www.wikidata.org/entity/Q1460	Sicily	ITG1
+http://www.wikidata.org/entity/Q1462	Sardinia	ITG2
+http://www.wikidata.org/entity/Q1280	Umbria	ITI2
+http://www.wikidata.org/entity/Q32	Luxembourg	LU00
+http://www.wikidata.org/entity/Q32	Luxembourg	LU000
+http://www.wikidata.org/entity/Q707	Flevoland	NL23
+http://www.wikidata.org/entity/Q12172	Basel-Stadt	CH031
+http://www.wikidata.org/entity/Q11943	Canton of Zürich	CH04
+http://www.wikidata.org/entity/Q11943	Canton of Zürich	CH040
+http://www.wikidata.org/entity/Q11933	Canton of Zug	CH066
+http://www.wikidata.org/entity/Q8189	Freudenstadt	DE12C
+http://www.wikidata.org/entity/Q3012	Ulm	DE144
+http://www.wikidata.org/entity/Q8223	Biberach district	DE146
+http://www.wikidata.org/entity/Q8225	Landkreis Ravensburg	DE148
+http://www.wikidata.org/entity/Q4007	Rosenheim	DE213
+http://www.wikidata.org/entity/Q10502	Fürstenfeldbruck	DE21C
+http://www.wikidata.org/entity/Q10518	Garmisch-Partenkirchen	DE21D
+http://www.wikidata.org/entity/Q10507	Landsberg am Lech	DE21E
+http://www.wikidata.org/entity/Q10526	Rosenheim	DE21K
+http://www.wikidata.org/entity/Q10504	Starnberg	DE21L
+http://www.wikidata.org/entity/Q7027	Straubing	DE223
+http://www.wikidata.org/entity/Q10482	Straubing-Bogen	DE22B
+http://www.wikidata.org/entity/Q10444	Bamberg	DE245
+http://www.wikidata.org/entity/Q10440	Coburg	DE247
+http://www.wikidata.org/entity/Q10445	Forchheim	DE248
+http://www.wikidata.org/entity/Q3075	Fürth	DE253
+http://www.wikidata.org/entity/Q10455	Fürth	DE258
+http://www.wikidata.org/entity/Q10462	Haßberge	DE267
+http://www.wikidata.org/entity/Q10412	Günzburg	DE278
+http://www.wikidata.org/entity/Q6115	Barnim District	DE405
+http://www.wikidata.org/entity/Q6142	Potsdam-Mittelmark District	DE40E
+http://www.wikidata.org/entity/Q6115	Barnim District	DE412
+http://www.wikidata.org/entity/Q6142	Potsdam-Mittelmark District	DE428
+http://www.wikidata.org/entity/Q7932	Darmstadt Government Region	DE71
+http://www.wikidata.org/entity/Q7904	Gießen	DE721
+http://www.wikidata.org/entity/Q7905	Lahn-Dill-Kreis	DE722
+http://www.wikidata.org/entity/Q7902	Marburg-Biedenkopf	DE724
+http://www.wikidata.org/entity/Q7901	Vogelsbergkreis	DE725
+http://www.wikidata.org/entity/Q3200	Salzgitter	DE912
+http://www.wikidata.org/entity/Q6047	Helmstedt district	DE917
+http://www.wikidata.org/entity/Q5907	Harburg	DE933
+http://www.wikidata.org/entity/Q5927	Verden	DE93B
+http://www.wikidata.org/entity/Q3097	Remscheid	DEA18
+http://www.wikidata.org/entity/Q6257	Mettmann	DEA1C
+http://www.wikidata.org/entity/Q6249	Viersen	DEA1E
+http://www.wikidata.org/entity/Q6272	Aachen cities region	DEA2D
+http://www.wikidata.org/entity/Q2839	Warendorf District	DEA38
+http://www.wikidata.org/entity/Q6228	Höxter	DEA44
+http://www.wikidata.org/entity/Q2880	Hamm	DEA54
+http://www.wikidata.org/entity/Q8566	Alzey-Worms	DEB3B
+http://www.wikidata.org/entity/Q8551	Südliche Weinstraße	DEB3H
+http://www.wikidata.org/entity/Q8554	Rhein-Pfalz-Kreis	DEB3I
+http://www.wikidata.org/entity/Q6064	Börde	DEE07
+http://www.wikidata.org/entity/Q6092	Mansfeld-Südharz	DEE0A
+http://www.wikidata.org/entity/Q6098	Saalekreis	DEE0B
+http://www.wikidata.org/entity/Q6075	Wittenberg	DEE0E
+http://www.wikidata.org/entity/Q6075	Wittenberg	DEE16
+http://www.wikidata.org/entity/Q2975	Ostholstein	DEF08
+http://www.wikidata.org/entity/Q7865	Sömmerda	DEG0D
+http://www.wikidata.org/entity/Q7070	Eisenach	DEG0N
+http://www.wikidata.org/entity/Q5727	La Rioja	ES23
+http://www.wikidata.org/entity/Q5727	La Rioja	ES230
+http://www.wikidata.org/entity/Q5720	Community of Valencia	ES52
+http://www.wikidata.org/entity/Q5701	Pirkanmaa	FI197
+http://www.wikidata.org/entity/Q5712	Finland Proper	FI1C1
+http://www.wikidata.org/entity/Q5698	Kymenlaakso	FI1C4
+http://www.wikidata.org/entity/Q3326	Corrèze	FR631
+http://www.wikidata.org/entity/Q3259	Cantal	FR722
+http://www.wikidata.org/entity/Q20239	Kamenz	DED2B
+http://www.wikidata.org/entity/Q12753	Seine-et-Marne	FR102
+http://www.wikidata.org/entity/Q12675	Oise	FR222
+http://www.wikidata.org/entity/Q12564	Loir-et-Cher	FR245
+http://www.wikidata.org/entity/Q12657	Nièvre	FR262
+http://www.wikidata.org/entity/Q12689	Pas-de-Calais	FR302
+http://www.wikidata.org/entity/Q12631	Meuse	FR412
+http://www.wikidata.org/entity/Q12652	Moselle	FR413
+http://www.wikidata.org/entity/Q12722	Haut-Rhin	FR422
+http://www.wikidata.org/entity/Q12740	Sarthe	FR514
+http://www.wikidata.org/entity/Q12798	Vendée	FR515
+http://www.wikidata.org/entity/Q12563	Landes	FR613
+http://www.wikidata.org/entity/Q12808	Haute-Vienne	FR633
+http://www.wikidata.org/entity/Q17063	Mayotte	FRA50
+http://www.wikidata.org/entity/Q17063	Mayotte	FRY5
+http://www.wikidata.org/entity/Q15097	Province of Alessandria	ITC18
+http://www.wikidata.org/entity/Q16186	Province of Imperia	ITC31
+http://www.wikidata.org/entity/Q15123	Province of Naples	ITF33
+http://www.wikidata.org/entity/Q16271	Province of Salerno	ITF35
+http://www.wikidata.org/entity/Q16159	Province of Catanzaro	ITF63
+http://www.wikidata.org/entity/Q16227	Province of Palermo	ITG12
+http://www.wikidata.org/entity/Q16225	Province of Oristano	ITG28
+http://www.wikidata.org/entity/Q16254	Province of Reggio Emilia	ITH53
+http://www.wikidata.org/entity/Q16168	Province of Ferrara	ITH56
+http://www.wikidata.org/entity/Q16205	Province of Massa-Carrara	ITI11
+http://www.wikidata.org/entity/Q16202	Province of Lucca	ITI12
+http://www.wikidata.org/entity/Q24826	Liverpool	UKD72
+http://www.wikidata.org/entity/Q23088	East Riding of Yorkshire	UKE12
+http://www.wikidata.org/entity/Q23092	Nottinghamshire	UKF15
+http://www.wikidata.org/entity/Q23092	Nottinghamshire	UKF16
+http://www.wikidata.org/entity/Q23105	Staffordshire	UKG24
+http://www.wikidata.org/entity/Q23204	Hampshire	UKJ33
+http://www.wikidata.org/entity/Q23154	Bristol	UKK11
+http://www.wikidata.org/entity/Q23159	Dorset	UKK22
+http://www.wikidata.org/entity/Q23436	Edinburgh	UKM25
+http://www.wikidata.org/entity/Q26586	Central Denmark Region	DK04
+http://www.wikidata.org/entity/Q26831	Algarve	PT150
+http://www.wikidata.org/entity/Q27569	Centro region	PT16
+http://www.wikidata.org/entity/Q26253	Madeira	PT300
+http://www.wikidata.org/entity/Q40249	Antalya Province	TR611
+http://www.wikidata.org/entity/Q93577	Arrondissement of Maaseik	BE225
+http://www.wikidata.org/entity/Q7040824	Nisia Aigaiou, Kriti	EL4
+http://www.wikidata.org/entity/Q211	Latvia	LV0
+http://www.wikidata.org/entity/Q3292403	Northern Netherlands	NL1
+http://www.wikidata.org/entity/Q2129657	Western Netherlands	NL3
+http://www.wikidata.org/entity/Q215	Slovenia	SI0
+http://www.wikidata.org/entity/Q214	Slovakia	SK0
+http://www.wikidata.org/entity/Q2863378	Eastern Netherlands	NL2
+http://www.wikidata.org/entity/Q2471235	Severen Tsentralen Planning Region	BG32
+http://www.wikidata.org/entity/Q4349469	Severoiztochen Planning Region	BG33
+http://www.wikidata.org/entity/Q2471345	Yugoiztochen Planning Region	BG34
+http://www.wikidata.org/entity/Q12039507	Central Bohemia cohesion region	CZ02
+http://www.wikidata.org/entity/Q12039504	Moravian-Silesian Region	CZ08
+http://www.wikidata.org/entity/Q173620	North Aegean Region	EL41
+http://www.wikidata.org/entity/Q229	Cyprus	CY00
+http://www.wikidata.org/entity/Q211	Latvia	LV00
+http://www.wikidata.org/entity/Q1781	Budapest	HU110
+http://www.wikidata.org/entity/Q75296977	Länsi-Suomi	FI19
+http://www.wikidata.org/entity/Q221	North Macedonia	MK00
+http://www.wikidata.org/entity/Q18922748	Central Albania	AL02
+http://www.wikidata.org/entity/Q107021595	Northern and Western Ireland	IE04
+http://www.wikidata.org/entity/Q107021604	Southern Ireland	IE05
+http://www.wikidata.org/entity/Q107021616	Eastern and Midland	IE06
+http://www.wikidata.org/entity/Q1142	Alsace	FRF1
+http://www.wikidata.org/entity/Q13950	Picardy	FRE2
+http://www.wikidata.org/entity/Q16987	Nord-Pas-de-Calais	FRE1
+http://www.wikidata.org/entity/Q16961	Upper Normandy	FRD2
+http://www.wikidata.org/entity/Q16954	Lower Normandy	FRD1
+http://www.wikidata.org/entity/Q16394	Franche-Comté	FRC2
+http://www.wikidata.org/entity/Q14103	Champagne-Ardenne	FRF2
+http://www.wikidata.org/entity/Q1137	Lorraine	FRF3
+http://www.wikidata.org/entity/Q1179	Aquitaine	FRI1
+http://www.wikidata.org/entity/Q1190	Limousin	FRI2
+http://www.wikidata.org/entity/Q17009	Poitou-Charentes	FRI3
+http://www.wikidata.org/entity/Q17005	Languedoc-Roussillon	FRJ1
+http://www.wikidata.org/entity/Q16393	Midi-Pyrénées	FRJ2
+http://www.wikidata.org/entity/Q1152	Auvergne	FRK1
+http://www.wikidata.org/entity/Q463	Rhône-Alpes	FRK2
+http://www.wikidata.org/entity/Q14112	Corsica	FRM0
+http://www.wikidata.org/entity/Q233	Malta	MT00
+http://www.wikidata.org/entity/Q107032099	Central and Western Lithuania region	LT02
+http://www.wikidata.org/entity/Q107033548	Southern Finland	FI1C
+http://www.wikidata.org/entity/Q107033562	Q107033562	FI1D
+http://www.wikidata.org/entity/Q107033612	Q107033612	PL92
+http://www.wikidata.org/entity/Q107033634	Q107033634	PL91
+http://www.wikidata.org/entity/Q94069	Arrondissement of Ath	BE32A
+http://www.wikidata.org/entity/Q94077	Arrondissement of Charleroi	BE32B
+http://www.wikidata.org/entity/Q94110	Arrondissement of Soignies	BE32C
+http://www.wikidata.org/entity/Q94122	Arrondissement of Thuin	BE32D
+http://www.wikidata.org/entity/Q236	Montenegro	ME000
+http://www.wikidata.org/entity/Q107356469	Balearic Islands	ES530
+http://www.wikidata.org/entity/Q43210	Burgenland	AT11
+http://www.wikidata.org/entity/Q43325	Salzburg	AT32
+http://www.wikidata.org/entity/Q55276	Soria Province	ES417
+http://www.wikidata.org/entity/Q50624	Rogaland	NO043
+http://www.wikidata.org/entity/Q50631	Troms	NO072
+http://www.wikidata.org/entity/Q54180	Pomeranian Voivodeship	PL63
+http://www.wikidata.org/entity/Q54177	Podlaskie Voivodeship	PL84
+http://www.wikidata.org/entity/Q47117	Balıkesir Province	TR221
+http://www.wikidata.org/entity/Q47134	Shetland Islands	UKM66
+http://www.wikidata.org/entity/Q90905	Arrondissement of Mechelen	BE212
+http://www.wikidata.org/entity/Q93368	Arrondissement of Halle-Vilvoorde	BE241
+http://www.wikidata.org/entity/Q94110	Arrondissement of Soignies	BE325
+http://www.wikidata.org/entity/Q93905	Arrondissement of Marche-en-Famenne	BE343
+http://www.wikidata.org/entity/Q81801	Araba / Álava	ES211
+http://www.wikidata.org/entity/Q93366	Biscay	ES213
+http://www.wikidata.org/entity/Q81803	Badajoz Province	ES431
+http://www.wikidata.org/entity/Q95015	Huelva Province	ES615
+http://www.wikidata.org/entity/Q95080	Las Palmas	ES701
+http://www.wikidata.org/entity/Q79846	Aydın Province	TR321
+http://www.wikidata.org/entity/Q82089	Bolu Province	TR424
+http://www.wikidata.org/entity/Q81551	Konya Province	TR521
+http://www.wikidata.org/entity/Q79760	Bingöl Province	TRB13
+http://www.wikidata.org/entity/Q114369	Anhalt-Zerbst	DEE12
+http://www.wikidata.org/entity/Q113961	Mansfelder Land	DEE23
+http://www.wikidata.org/entity/Q104746	Kronoberg county	SE212
+http://www.wikidata.org/entity/Q103738	Gotland County	SE214
+http://www.wikidata.org/entity/Q102377	Blekinge County	SE221
+http://www.wikidata.org/entity/Q103659	Skåne County	SE224
+http://www.wikidata.org/entity/Q103699	Gävleborg County	SE313
+http://www.wikidata.org/entity/Q190930	Vysočina Region	CZ063
+http://www.wikidata.org/entity/Q188960	Tauragė County	LT027
+http://www.wikidata.org/entity/Q220736	Yambol Province	BG343
+http://www.wikidata.org/entity/Q212921	Ioannina Regional Unit	EL213
+http://www.wikidata.org/entity/Q214219	Lesbos Prefecture	GR411
+http://www.wikidata.org/entity/Q205926	Osrednjeslovenska	SI041
+http://www.wikidata.org/entity/Q215733	Warrington	UKD61
+http://www.wikidata.org/entity/Q209131	South Ayrshire	UKM37
+http://www.wikidata.org/entity/Q183498	Bratislava Region	SK01
+http://www.wikidata.org/entity/Q281206	Osmaniye Province	TR633
+http://www.wikidata.org/entity/Q322986	Delfzijl	NL112
+http://www.wikidata.org/entity/Q430923	Parchim	DE80G
+http://www.wikidata.org/entity/Q482779	Giresun Province	TR903
+http://www.wikidata.org/entity/Q483154	Gaziantep Province	TRC11
+http://www.wikidata.org/entity/Q16442665	Q16442665	AT213
+http://www.wikidata.org/entity/Q641003	Koblenz Government Region	DEB1
+http://www.wikidata.org/entity/Q722460	Punta Campanella Marine Reserve	ITZZ
+http://www.wikidata.org/entity/Q907395	Dobrich Province	BG332
+http://www.wikidata.org/entity/Q1036287	El Hierro	ES703
+http://www.wikidata.org/entity/Q1112985	Kyustendil Province	BG415
+http://www.wikidata.org/entity/Q1104675	Kardzhali Province	BG425
+http://www.wikidata.org/entity/Q2012242	Pleven Province	BG314
+http://www.wikidata.org/entity/Q2594690	Hartlepool	UKC11
+http://www.wikidata.org/entity/Q4956654	Brandenburg-Northeast	DE41
+http://www.wikidata.org/entity/Q7458003	Severovýchod	CZ05
+http://www.wikidata.org/entity/Q7898825	Upper Norrland	SE33
+http://www.wikidata.org/entity/Q9608393	Alto Tâmega Subregion	PT11B
+http://www.wikidata.org/entity/Q10996863	City and County of Swansea	UKL18
+http://www.wikidata.org/entity/Q18388655	Terras de Trás-os-Montes	PT11E
+http://www.wikidata.org/entity/Q19839560	Kırıkkale Subregion	TR71
+http://www.wikidata.org/entity/Q19839590	Van Subregion	TRB2
+http://www.wikidata.org/entity/Q233	Malta	MT0
+http://www.wikidata.org/entity/Q12296926	Macroregiunea Trei	RO3
+http://www.wikidata.org/entity/Q13046908	Southern Albania	AL03
+http://www.wikidata.org/entity/Q76516549	Algarve (NUTS 2)	PT15
+http://www.wikidata.org/entity/Q76714253	Madeira (NUTS 1)	PT3
+http://www.wikidata.org/entity/Q103719381	Trentino	ITH2
+http://www.wikidata.org/entity/Q14221267	Q14221267	AT113
+http://www.wikidata.org/entity/Q748891	Oberpullendorf District	AT111
+http://www.wikidata.org/entity/Q16442658	Nordburgenland	AT112
+http://www.wikidata.org/entity/Q12646871	St. Pölten	AT123
+http://www.wikidata.org/entity/Q16442661	Q16442661	AT126
+http://www.wikidata.org/entity/Q12646874	Q12646874	AT127
+http://www.wikidata.org/entity/Q12646876	Q12646876	AT222
+http://www.wikidata.org/entity/Q16442666	Q16442666	AT223
+http://www.wikidata.org/entity/Q16442667	Q16442667	AT224
+http://www.wikidata.org/entity/Q12646877	Q12646877	AT225
+http://www.wikidata.org/entity/Q16442668	Q16442668	AT226
+http://www.wikidata.org/entity/Q2011608	Q2011608	AT312
+http://www.wikidata.org/entity/Q12646880	Q12646880	AT314
+http://www.wikidata.org/entity/Q268090	Tamsweg District	AT321
+http://www.wikidata.org/entity/Q12646872	Niederösterreich-Süd	AT122
+http://www.wikidata.org/entity/Q854005	Reutte District	AT331
+http://www.wikidata.org/entity/Q12646883	Q12646883	AT341
+http://www.wikidata.org/entity/Q12646882	Q12646882	AT342
+http://www.wikidata.org/entity/Q12679	Orne	FRD13
+http://www.wikidata.org/entity/Q20572603	Q20572603	HR050
+http://www.wikidata.org/entity/Q63020284	Arrondissement of Tournai-Mouscron	BE328
+http://www.wikidata.org/entity/Q62011183	Arrondissement of La Louvière	BE329
+http://www.wikidata.org/entity/Q23498165	Province of South Sardinia	ITG2H
+http://www.wikidata.org/entity/Q56404886	Innlandet	NO020
+http://www.wikidata.org/entity/Q127676	Trøndelag	NO060
+http://www.wikidata.org/entity/Q52600648	Troms og Finnmark fylke	NO074
+http://www.wikidata.org/entity/Q56407178	Viken	NO082
+http://www.wikidata.org/entity/Q56405721	Vestfold og Telemark	NO091
+http://www.wikidata.org/entity/Q2729021	Agder	NO092
+http://www.wikidata.org/entity/Q56407177	Vestland	NO0A2
+http://www.wikidata.org/entity/Q14056	Jan Mayen	NO0B1
+http://www.wikidata.org/entity/Q25231	Svalbard	NO0B2
+http://www.wikidata.org/entity/Q6022	Göttingen district	DE91C
+http://www.wikidata.org/entity/Q93515	Arrondissement of Hasselt	BE224

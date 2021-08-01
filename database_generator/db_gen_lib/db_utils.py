@@ -1,6 +1,8 @@
 import pandas as pd
 import sqlite3
 import os
+import csv
+
 COVID_COLS = ["CumulativePositive", "CumulativeDeceased", "CumulativeRecovered", "CurrentlyPositive", "Hospitalized", "IntensiveCare"]
 POLICIES_COLS = ["Curfew"]
 
@@ -85,7 +87,7 @@ class CovidCases(object):
     
     
 class Covariate(object):
-    def __init__(self, file_name, file_type='xlsx', aggregation_method='sum'):
+    def __init__(self, file_path, file_type='xlsx', aggregation_method='sum'):
         """
             Covariate file
             params: 
@@ -95,11 +97,11 @@ class Covariate(object):
                 aggregation_method: str
                     among 'sum', 'popsum', 'avg'
         """
-        self.file_name = file_name
+        self.file_path = file_path
         self.file_type = file_type
         self.aggregation_method = aggregation_method
         
-        self.col_name = '.'.join([file_name, file_type, aggregation_method])
+        self.col_name = '.'.join([file_path,  aggregation_method])
         
         self.df = self._load_df()
         
@@ -131,7 +133,7 @@ class Covariate(object):
             :return
                 DataFrame
         """
-        return pd.read_excel(self.file_name)
+        return pd.read_excel(self.file_path)
     
     def _load_csv(self):
         """
@@ -140,7 +142,7 @@ class Covariate(object):
             :return
                 DataFrame
         """
-        return pd.read_csv(self.file_name)
+        return pd.read_csv(self.file_path)
     
     def _load_tsv(self):
         """
@@ -149,7 +151,7 @@ class Covariate(object):
             :return
                 DataFrame
         """
-        return pd.read_csv(self.file_name, sep='\t') 
+        return pd.read_csv(self.file_path, sep='\t') 
     
     @staticmethod
     def _compute_covariate_value(df):
@@ -218,8 +220,8 @@ class DatasetsMerger(object):
             returns:
                 DataFrame
         """
-        return pd.read_excel(self.db_file_name, sheet_name = self.db_sheet)
-    
+        #return pd.read_excel(self.db_file_name, sheet_name = self.db_sheet)
+        return pd.read_csv(self.db_file_name, sep="\t")
     def _load_covariates(self):
         """
             Load all the covariates from the db_df
@@ -230,6 +232,7 @@ class DatasetsMerger(object):
         
         # Return a map of {col_name_cov_1: Covariate(), col_name_cov_2: Covariate(), ...}
         covs = {}
+        """
         for covariate_info in list(self.db_df.columns.values)[8:]:
             if "inserire nome covariate" in covariate_info:
                 continue
@@ -244,7 +247,20 @@ class DatasetsMerger(object):
             except Exception as e:
                 print(covariate_info, " ",e)
                 pass
-
+        """    
+        with open(self.db_filename) as fd:
+            reader = csv.reader(fd, delimiter="\t", quotechar='"')
+            next(reader, None)  # skip the headers
+            for row in reader:
+                cov_file_name = row[0]
+                 
+                cov_name = row[0].split(".")[0]
+                cov_file_type = row[0].split(".")[-1]
+                cov_agg_method = row[-1]
+                
+                cov_file_path = os.path.join(self.eurostat_folder, cov_file_name) 
+                covs[cov_name] = Covariate(cov_file_path, file_type=cov_file_type, aggregation_method=cov_agg_method)
+       
         return covs
             
         

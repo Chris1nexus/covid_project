@@ -71,8 +71,8 @@ with open(filemapper_path, encoding="cp1252") as f:
             
             items = line.rstrip().split("\t")
             
-            assert len(items) == 3, f"Error, {len(items)} elements have been found, expected 3.\n Error at line {i}(0 indexed):\n{line}"
-            filename, eurostat_fd, url = items
+            assert len(items) == 4, f"Error, {len(items)} elements have been found, expected 4.\n Error at line {i}(0 indexed):\n{line}"
+            filename, eurostat_fd, url,agg_type = items
             obj = DataObject(filename, eurostat_fd, url)
             obj.load()
             obj.clean()
