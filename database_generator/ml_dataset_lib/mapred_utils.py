@@ -1,8 +1,25 @@
+import numpy as np
 def to_float(item):
     if len(item) > 0:
         item = float(item)
         return item
-    return 0
+    return np.nan
+
+# custom max fn since the default max returns always the first argument if either of the two is a np.nan
+def max_no_nan(val1,val2):
+    # must use np.isnan to check if a value is np.nan, checks like val1 is np.nan or val1 == np.nan fail in this multi process context
+    if np.isnan(val1) and np.isnan(val2):
+        return np.nan
+    return max(get_val_or_0(val1) , get_val_or_0(val2))
+
+def get_val_or_0(val):
+    return val if val is not np.nan else 0.
+
+def sum_aggr_nans(val1,val2):
+    if np.isnan(val1) and np.isnan(val2):
+        return np.nan
+    return get_val_or_0(val1) + get_val_or_0(val2)
+    
 def map0(row):
     row_data = row.split(",")
     date = row_data[0]
@@ -56,12 +73,12 @@ class CovidData(object):
         iso3 = covid1.iso3
         country_name = covid1.country_name
         
-        cum_positive = covid1.cum_positive + covid2.cum_positive
-        cum_deceased = covid1.cum_deceased + covid2.cum_deceased
-        cum_recovered = covid1.cum_recovered + covid2.cum_recovered
-        curr_positive = covid1.curr_positive + covid2.curr_positive
-        hospitalized = covid1.hospitalized + covid2.hospitalized
-        intensive_care  = covid1.intensive_care + covid2.intensive_care
+        cum_positive = sum_aggr_nans(covid1.cum_positive, covid2.cum_positive)
+        cum_deceased = sum_aggr_nans(covid1.cum_deceased, covid2.cum_deceased)
+        cum_recovered = sum_aggr_nans(covid1.cum_recovered, covid2.cum_recovered)
+        curr_positive = sum_aggr_nans(covid1.curr_positive, covid2.curr_positive)
+        hospitalized = sum_aggr_nans(covid1.hospitalized, covid2.hospitalized)
+        intensive_care  = sum_aggr_nans(covid1.intensive_care, covid2.intensive_care)
 
         EUCountry = covid1.EUCountry
         EUCPMCountry = covid1.EUCPMCountry
@@ -80,9 +97,11 @@ class CovidData(object):
         EUCPMCountry = covid1.EUCPMCountry
     
         # for cumulated values, take the highest value of the two, for others, the most recent is instead ok
-        cum_positive = max(covid1.cum_positive, covid2.cum_positive)
-        cum_deceased = max(covid1.cum_deceased, covid2.cum_deceased)
-        cum_recovered = max(covid1.cum_recovered, covid2.cum_recovered)
+        cum_positive = max_no_nan(covid1.cum_positive, covid2.cum_positive)
+        
+        cum_deceased = max_no_nan(covid1.cum_deceased, covid2.cum_deceased)
+     
+        cum_recovered = max_no_nan(covid1.cum_recovered, covid2.cum_recovered)
         if covid1.date >= covid2.date:
             date = covid1.date
             curr_positive = covid1.curr_positive 
@@ -143,56 +162,3 @@ class CovidInfo(object):
         self.iso3, self.country_name, self.EUCountry, self.EUCPMCountry = iso3, country_name, EUCountry, EUCPMCountry
    
     
-
-class DateContainer(object):
-    def __init__(self):
-        self.dates = []
-       
-        
-    def add(self, date, row):
-        row_data = row.split(",")
-        date = row_data[0]
-        iso3 = row_data[1]
-        country_name = row_data[2]
-        
-        region = row_data[3]
-        #lat = float(row_data[4])
-        #long = float(row_data[5])
-        
-        
-        cum_positive, cum_deceased, cum_recovered, curr_positive, hospitalized, intensive_care = [ to_float(item) for item in row_data[6:12] ]
-        """
-        if len(row_data[6]) > 0:
-            cum_positive = float(row_data[6])
-        else:
-            cum_positive = 0
-        if len(row_data[7]) > 0:
-            cum_deceased = float(row_data[7])
-        else:
-            
-        if len(row_data[6]) > 0:
-            cum_recovered = float(row_data[8])
-        else:
-            cum_recovered = 0
-        if len(row_data[6]) > 0:
-            curr_positive = float(row_data[9])
-        else:
-            curr_positive =0
-        if len(row_data[6]) > 0:
-            hospitalized = float(row_data[10])
-        else:
-            hospitalized = 0
-        if len(row_data[6]) > 0:
-            intensive_care = float(row_data[11])
-        else:
-            intensive_care = 0
-        """
-        EUCountry = row_data[12]
-        EUCPMCountry = row_data[13]
-        
-        NUTS = row_data[14]
-        
-        self.dates.append((date, CovidInfo(cum_positive, cum_deceased, cum_recovered, curr_positive, hospitalized, intensive_care,
-                                           iso3, country_name, EUCountry, EUCPMCountry) )
-                             )
-        

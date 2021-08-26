@@ -4,8 +4,9 @@ database_generator/filemapper.xlsx
 database_generator/coronanet_datasets
 database_generator/prototype_eurostat_downloader.ipynb 
 database_generator/covid.csv
-database_generator/covid_cases_jrc.csv
+database_generator/model.ipynb
+database_generator/test.ipynb
 .ipynb_checkpoints
-database_generator/covid_mapreduce_output.csv
-database_generator/ml_dataset.tsv
-database_generator/policies.csv
+iso3_eu.txt
+tmp_check_iso3.ipynb
+tmp_check_policies_1.ipynb
