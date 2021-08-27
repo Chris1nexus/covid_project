@@ -42,10 +42,16 @@ if __name__ == "__main__":
         help="path in which the output dataset is saved",
     )
     parser.add_argument(
-        "--until-date",
+        "--start-date",
         type=str,
-        default="12/31/2020",
-        help="remove all dates greater than the given one (format is month/day/year\n\t default=12/31/2020 )",
+        default="1/2/2020",
+        help="starting date of the period of the considered pandemic data (format is month/day/year\n\t default=1/2/2020 )",
+    )
+    parser.add_argument(
+        "--end-date",
+        type=str,
+        default="20/8/2020",
+        help="end date of the period of the considered pandemic data  (format is month/day/year\n\t default=20/8/2020 )",
     )
  
 
