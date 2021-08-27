@@ -16,11 +16,19 @@ def main(args):
     str_stream = StringIO(string)
     df = pd.read_csv(str_stream)
     
-    # obtain comparable date format (from 12/31/2020 -> 2020-12-31)
-    query_date = pd.to_datetime(args.until_date)
-    parsed_dates = pd.to_datetime(df["Date"], infer_datetime_format=True)
-    query_result = parsed_dates <=  query_date
-    df = df[query_result]
+    
+    # obtain START DATE comparable date format (from 1/2/2020 -> 2020-2-1)
+    start_query_date = pd.to_datetime(args.start_date)
+    start_parsed_dates = pd.to_datetime(df["Date"], infer_datetime_format=True)
+    start_query_result = start_parsed_dates >=  start_query_date
+    
+    # obtain END DATE comparable date format (from 20/8/2020 -> 2020-8-20)
+    end_query_date = pd.to_datetime(args.end_date)
+    end_parsed_dates = pd.to_datetime(df["Date"], infer_datetime_format=True)
+    end_query_result = end_parsed_dates <=  end_query_date
+    df = df[end_query_result]
+    
+    
     df.to_csv(args.out_filepath,index=False)
     #with open(args.out_filepath, "w+",  encoding="utf-8") as outfile:
     #    outfile.write(string)
